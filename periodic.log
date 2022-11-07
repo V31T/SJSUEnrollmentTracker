@@ -1,0 +1,8 @@
+2022-11-06 22:20:25,951 DEBUG : Starting new HTTPS connection (1): www.sjsu.edu:443
+2022-11-06 22:20:25,996 DEBUG : https://www.sjsu.edu:443 "GET /classes/schedules/winter-2023.php HTTP/1.1" 200 20759
+2022-11-06 22:20:26,081 INFO : Winter 2023: scraped 175 courses.
+2022-11-06 22:20:26,189 INFO : Winter 2023: inserted courses into db.
+2022-11-06 22:20:26,191 DEBUG : Starting new HTTPS connection (1): www.sjsu.edu:443
+2022-11-06 22:20:26,247 DEBUG : https://www.sjsu.edu:443 "GET /classes/schedules/spring-2023.php HTTP/1.1" 200 None
+2022-11-06 22:20:32,964 INFO : Spring 2023: scraped 6289 courses.
+2022-11-06 22:20:36,454 INFO : Spring 2023: inserted courses into db.

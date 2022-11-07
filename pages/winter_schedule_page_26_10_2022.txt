@@ -1,0 +1,3722 @@
+<!DOCTYPE HTML><html lang="en">
+   <head>
+
+<!-- begin headcode -->
+
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<link rel="stylesheet" href="/aspis/css/foundation.css"/>
+
+<link rel="stylesheet" href="/aspis/css/campus.css"/>
+
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,800" rel="stylesheet"/>
+
+<style type="text/css">
+			
+	td {
+		font-size:100%;
+	}
+	
+	.gcsc-branding {
+		display:none;
+	}
+
+	.gsc-control-cse, .gsc-control-cse .gsc-table-result {
+		font-size:inherit;
+	}
+	
+	form.gsc-search-box {
+		font-size:inherit;
+		padding:0;
+		margin:0;
+	}
+	
+	.gsc-search-box-tools .gsc-search-box .gsc-input {
+    	padding:0; }
+	
+	.gsib_a {
+		padding:0 0 0 0;
+		margin-left:-10px;
+		border:none !important;
+	}
+	
+	.cse .gsc-control-cse, .gsc-control-cse {
+		padding:0;
+	}
+	
+	table.gsc-search-box {
+		border-color:#ffffff;
+		padding:0;
+		margin:0;
+	}
+		
+	.gsc-input-box {
+		border:none;
+	}
+	
+	.gsc-input {
+		border:none !important;
+		margin:0;
+		padding:0;
+	}
+	
+	input.gsc-input {
+		line-height:1;
+		padding:.5rem .75rem !important;
+		font-size:inherit;
+		text-indent:0 !important;
+		background-image:none !important;
+		border:none !important;
+	}
+	
+	.gsc-search-button {
+		margin:0;
+		padding:0 8px;
+		background-color:#0055a8;
+	}
+	
+	.gsc-search-button-v2 {
+		font-size:inherit;
+		cursor:pointer;
+		border:none;
+		border-radius:0;
+	}			
+	
+	.o-nav-global.show-for-large .gsc-search-button-v2 {
+		min-height:48px;
+		padding:0px 18px;
+	}
+
+	.o-nav-global.show-for-large .gsc-search-button-v2 svg {
+		height:22px;
+		width:22px;
+	}	
+	
+	.o-nav-global.hide-for-large .gsc-search-button-v2 {
+		min-height:24px;
+		padding:0px 12px;
+		background-color:#ffffff;
+	}		
+	
+	.o-nav-global.hide-for-large .gsc-search-button-v2 svg {
+		fill:#0055a8;
+		height:16px;
+		width:16px;
+	}
+	
+	.gsc-search-button-v2 svg {
+		height:22px;
+		width:22px;
+	}
+	
+	.gsc-table-result, .gsc-thumbnail-inside, .gsc-url-top {
+		padding:0;
+	}
+	
+	.gsc-control-cse .gs-spelling, .gsc-control-cse .gs-result .gs-title, .gsc-control-cse .gs-result .gs-title * {
+		font-size:inherit;
+	}
+	
+	#gsc-i-id2 {
+		padding:0;
+		line-height:1.5;
+	}
+	
+	.gsc-result-info {
+		padding:0;
+		font-size:inherit;
+	}
+	
+	.gsc-selected-option-container {
+		font-size:inherit;
+	}
+	
+	table tbody {
+		border:none;
+	}
+	
+	table tbody td {
+		padding:0;
+	}
+	
+	span.gs-fileFormat {
+		color:#555555;
+		font-size:.75rem;
+	}
+	
+	span.gs-fileFormatType {
+		font-size:.75rem;
+	}
+
+	.gsc-cursor-page {
+		padding:0 15px 0 15px;
+	}
+	
+</style>
+
+<script async src="https://www.googleoptimize.com/optimize.js?id=OPT-N7LF3XM"></script>
+		
+<script type="text/javascript">
+	window.onload = function(){
+		document.getElementById('gsc-i-id1').placeholder = 'Search SJSU';
+		document.getElementById('gsc-i-id2').placeholder = 'Search SJSU';
+	};
+	
+	var prefersReducedMotion = null;
+	
+	if (window.matchMedia('(prefers-reduced-motion)').matches) {
+		prefersReducedMotion = true;
+	}	
+</script>
+
+<script async src="https://cse.google.com/cse.js?cx=012859833366045817487:gox5jplxmb8"></script>
+
+<!-- end headcode -->
+
+<!-- site: www --><script type="text/javascript">
+			var page_url="https://www.sjsu.edu/classes/schedules/winter-2023.php";
+		</script>
+      
+      	
+      <title>Winter 2023 | Class Schedules</title>
+      <meta name="Description" content="There are three different types of modes of instruction: Fully Online, Hybrid, and In-Person (definitions linked). Note: Real-time class listings, including textbook and course information, are found at one.sjsu.edu by searching for 'Class Search' in the Search Box. Some classes have multiple class notes, but this website only displays the first class note. A full list of class notes can be in the Class Search and clicking on the class section title. ">
+      <meta name="Keywords" content="winter 2023 class schedule"><script>
+					var currentNavigationStart = "/classes/";
+				</script></head>
+   <body class="&#xA;&#x9;&#x9;init&#xA;&#x9;">
+<!-- novel coronavirus emergency dropdown -->
+		
+<div class="o-emergency u-alert--gray">
+<div class="o-wrap--content o-emergency__panel">
+	<h1 class="o-emergency__title">Emergency Notification: COVID-19 and Monkeypox</h1>
+<p class="o-emergency__text">Visit the <a class="o-emergency__link" href="/healthadvisories/">Health Advisories website</a> for the latest vaccination and mask information and to Report a Case.
+</p>
+</div>
+</div>
+<!--
+<div class="o-emergency u-alert--gray">
+
+	<div class="o-wrap--content o-emergency__panel">
+		<h1 class="o-emergency__title">(***TEST***) Emergency Alert Notification (***TEST***)</h1>
+		<p class="o-emergency__text">Due to <a class="o-emergency__link" href="#">unhealthy air quality levels</a>, campus will be closed Thursday, Nov. 15 and Friday, Nov. 16</p>
+	</div>
+	
+</div>
+
+-->
+
+
+<!-- variations
+
+u-alert--red, u-alert--yellow, u-alert--gray
+
+-->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMNG6XV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->	
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PMNG6XV');</script>
+
+<!-- End Google Tag Manager -->	<a id="skiplink" href="#sjsu-maincontent" class="show-for-sr">Skip to main content</a><header id="sjsu-header" class="o-region o-region--header" role="banner">
+		<div class="o-wrap--globalnav u-bg--dark">
+			<div class="o-wrap--content">
+				<nav class="o-nav--megamenu show-for-large" role="navigation" aria-label="University nav menu for desktop">
+					<div class="o-nav--megamenu__title">
+						<a class="o-title--global" href="/">San Jos&eacute; State University</a>
+					</div>
+					<div id="globalnav-desktop" class="o-nav--megamenu__menu amm-o-nav">
+						<ul class="amm-o-nav__menu">						
+							<li class="amm-o-nav__top-item o-nav__item--megamenu">
+								<a class="amm-o-nav__top-link"><span class="u-icon u-icon--hamburger u-color--white">Menu</span></a>
+								<div class="amm-o-nav__panel u-bg--triangles-down-big">
+									<div class="o-wrap--amm">
+										<ul class="amm-o-nav__menu">
+											<li class="amm-o-nav__group">
+												<a class="amm-o-nav__heading" href="/visit/index.php">Visit</a>
+												<ul class="amm-o-nav__list">
+													<li class="amm-o-nav__item"><a href="/soar/services/campus-tours.php">Campus Tours</a></li>
+													<li class="amm-o-nav__item"><a href="http://www.sjsu.edu/map">Maps</a></li>
+													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/parking/">Parking</a></li>
+                                                    <li class="amm-o-nav__item"><a href="/visit/silicon-valley.php">Silicon Valley</a></li>
+													<li class="amm-o-nav__item"><a href="https://hammertheatre.com/">Hammer Theatre</a></li>
+													<li class="amm-o-nav__item"><a href="/sjsulovessj/">SJSU Loves SJ</a></li>
+												</ul>
+											</li>
+											<li class="amm-o-nav__group">
+												<a class="amm-o-nav__heading" href="/academics/index.php">Academics</a>
+												<ul class="amm-o-nav__list">
+													<li class="amm-o-nav__item"><a href="/academics/colleges-and-departments.php">Colleges and <br />Departments</a></li>
+													<li class="amm-o-nav__item"><a href="https://catalog.sjsu.edu/content.php?catoid=13&navoid=4973">Majors and <br />Programs</a></li>
+                                                    <li class="amm-o-nav__item"><a href="/classes/calendar/index.php">Academic Calendar</a></li>
+                                                    <li class="amm-o-nav__item"><a href="/classes/index.php">Classes</a></li>
+													<li class="amm-o-nav__item"><a href="https://library.sjsu.edu/">King Library</a></li>
+                                                    
+												</ul>
+											</li>
+											<li class="amm-o-nav__group">
+												<a class="amm-o-nav__heading" href="https://www.sjsu.edu/admissions/">Admissions</a>
+												<ul class="amm-o-nav__list">
+													<li class="amm-o-nav__item"><a href="/tuition-and-fees/index.php">Tuition and Fees</a></li>
+													<li class="amm-o-nav__item"><a href="/housing-options/index.php">Housing</a></li>
+													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/extend/index.html?">Professional Education</a> </li>
+													<li class="amm-o-nav__item"><a href="/parent-and-family-programs/index.php">Parent and <br />Family Programs</a></li>
+                                                </ul>
+											</li>
+											<li class="amm-o-nav__group">
+												<a class="amm-o-nav__heading" href="/campus-life/">Campus Life</a>
+												<ul class="amm-o-nav__list">
+													<li class="amm-o-nav__item"><a href="/campus-life/health-and-wellness.php">Health and Wellness</a></li>
+													<li class="amm-o-nav__item"><a href="/campus-life/safety.php">Safety</a></li>
+													<li class="amm-o-nav__item"><a href="https://www.sjsu.edu/sjsucares/">SJSU Cares</a></li>
+													<li class="amm-o-nav__item"><a href="/campus-life/events.php">Events</a></li>
+													<li class="amm-o-nav__item"><a href="/campus-life/traditions.php">Traditions</a></li>
+													<li class="amm-o-nav__item"><a href="/campus-life/sac.php">Student Alumni <br />Connection</a></li>
+												</ul>
+											</li>
+											<li class="amm-o-nav__group">
+												<a class="amm-o-nav__heading" href="/about/research/">Research and <br>Innovation</a>
+												<ul class="amm-o-nav__list">
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="/research/">Office of Research</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="/innovation/">Office of Innovation</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="/researchfoundation/">Research Foundation</a></li>
+													<li class="amm-o-nav__item" class="amm-o-nav__item"><a href="/about/research/student-faculty-collaborations.php">Student-Faculty <br />Collaborations</a></li>
+													<li class="amm-o-nav__item"><a href="/about/research/become-a-research-partner.php">Become a <br />Research Partner</a></li>
+													<li class="amm-o-nav__item"><a href="/research/about/cci/index.php">Centers <br />and Institutes</a></li>
+												</ul>
+											</li>
+											<li class="amm-o-nav__group">
+												<a class="amm-o-nav__heading" href="/about/index.php">About</a>
+												<ul class="amm-o-nav__list">
+													<li class="amm-o-nav__item"><a href="/about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
+													<li class="amm-o-nav__item"><a href="/facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
+													<li class="amm-o-nav__item"><a href="https://blogs.sjsu.edu/newsroom/">NewsCenter</a></li>
+													<li class="amm-o-nav__item"><a href="/about/partnerships.php">Partnerships</a></li>
+													<li class="amm-o-nav__item"><a href="/transform/">Transformation <br />Defined</a></li>													
+												</ul>
+											</li>   
+										</ul>
+										<div class="amm-o-nav__identity" style="margin-top:0;">
+											<img class="float-right" src="/aspis/media/brand/logo-we-are-spartans.svg" alt="We Are Spartans"/>							
+								
+											<ul class="amm-o-nav__app float-right">
+												<li><a href="https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic" class="u-icon--app u-icon--sjsuonline u-color--white">SJSU Online</a></li>
+												<li><a href="http://www.sjsuspartans.com" class="u-icon--app u-icon--spirit-mark u-color--white">Athletics</a></li>
+												<li><a href="http://alumni.sjsu.edu" class="u-icon--app u-icon--grad-cap u-color--white">Alumni Association</a></li>
+												<li><a href="http://giving.sjsu.edu" class="u-icon--app u-icon--gift u-color--white">Giving to SJSU</a></li>
+												<li><a href="https://sjsu.instructure.com" class="u-icon--app u-icon--canvas u-color--white">Canvas</a></li>
+												<li><a href="https://one.sjsu.edu" class="u-icon--app u-icon--onesjsu u-color--white">one.SJSU</a></li>    
+											</ul>										
+										</div>
+									</div>
+									<span class="u-gradientbar--amm" /> 
+								</div>
+							</li>
+							<li class="amm-o-nav__top-item o-nav__item--search">
+								<a class="amm-o-nav__top-link" href="https://www.sjsu.edu/search/index.html"><span class="u-icon u-icon--search u-color--white">Search</span></a>
+								<div class="amm-o-nav__panel">
+									<div class="o-wrap--amm">    
+										<div class="gcse-searchbox-only" data-resultsUrl="https://www.sjsu.edu/search/index.html"></div>
+									</div>
+									<span class="u-gradientbar--amm" />
+								</div>
+							</li>
+						</ul>
+					</div>
+				</nav><!-- /nav.global.desktop -->
+
+				<nav id="globalnav" class="top-bar o-nav--global hide-for-large" data-topbar role="navigation" aria-label="University nav menu for mobile">
+					<div class="top-bar-title" data-responsive-toggle="globalnav-menu">
+						<button class="o-nav--global__button u-icon--hamburger u-color--white float-left" type="button" data-toggle="globalnav-menu"><span class="show-for-sr">University Menu .</span></button><a href="http://www.sjsu.edu" class="o-title--global"><span class="show-for-sr">Go to</span>SJSU<span class="show-for-sr"> homepage.</span></a>
+					</div>
+						<div id="globalnav-menu" style="min-width:100%;">
+							<ul class="vertical menu accordion-menu" data-accordion-menu="data-accordion-menu" data-submenu-toggle="data-submenu-toggle">
+								<li class="o-nav--global__item">
+									<a href="/visit/index.php">Visit</a>    
+									<ul class="menu vertical nested">
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/soar/services/campus-tours.php">Campus Tours</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="http://www.sjsu.edu/map">Maps</a> </li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/parking/">Parking</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/visit/silicon-valley.php">Silicon Valley</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://hammertheatre.com/">Hammer Theatre</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/sjsulovessj/">SJSU Loves SJ</a></li>
+									</ul>
+								</li>
+								<li class="o-nav--global__item">
+									<a href="/academics/index.php">Academics</a>
+									<ul class="menu vertical">
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/academics/colleges-and-departments.php">Colleges and Departments</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://catalog.sjsu.edu/content.php?catoid=2&navoid=96">Majors and Programs</a> </li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/classes/calendar/index.php">Academic Calendar</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://catalog.sjsu.edu/content.php?catoid=2&navoid=96">Classes</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://library.sjsu.edu/">King Library</a></li>
+									</ul>    
+								</li>
+								<li class="o-nav--global__item">
+									<a href="https://www.sjsu.edu/admissions/">Admissions</a>
+									<ul class="menu vertical">
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/tuition-and-fees/index.php">Tuition and Fees</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="http://wwww.sjsu.edu/housing-options/index.php">Housing</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/extend/index.html?">Professional Education</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/parent-and-family-programs/index.php">Parents and Family Programs</a></li>
+									</ul>    
+								</li>
+								<li class="o-nav--global__item">
+									<a href="/campus-life/">Campus Life</a>
+									<ul class="menu vertical">
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/campus-life/health-and-wellness.php">Health and Wellness</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/campus-life/safety.php">Safety</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://www.sjsu.edu/sjsucares/">SJSU Cares</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/campus-life/events.php">Events</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/campus-life/traditions.php">Traditions</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/campus-life/sac.php">Student Alumni Connection</a></li>
+									</ul>    
+								</li>
+								<li class="o-nav--global__item">
+									<a href="/about/research/">Research and Innovation</a>
+									<ul class="menu vertical">
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/research/">Office of Research</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/innovation/">Office of Innovation</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/researchfoundation/">Research Foundation</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/about/research/student-faculty-collaborations.php">Student-Faculty Collaborations</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/about/research/become-a-research-partner.php">Become a Research Partner</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/research/about/cci/index.php">Centers and Institutes</a> </li>
+									</ul>    
+								</li>
+								<li class="o-nav--global__item">
+									<a href="https://sjsuspartans.com/">Athletics</a>
+
+								</li>
+								<li class="o-nav--global__item">
+									<a class="gtm-nav--global-mobile" href="https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic">SJSU Online</a>
+								</li>
+								<li class="o-nav--global__item">
+									<a href="/about/index.php">About</a>
+									<ul class="menu vertical">
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/about/administration-and-leadership.php">Administration <br />and Leadership</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/facts-and-accomplishments/index.php">Facts and <br />Accomplishments</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="https://blogs.sjsu.edu/newsroom/">NewsCenter</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/about/partnerships.php">Partnerships</a></li>
+										<li class="o-nav--global__item o-nav--global__item--nested"><a href="/transform/">Transformation <br />Defined</a></li>									
+									</ul>
+								</li>
+							</ul>						
+							<div class="gcse-searchbox-only" data-resultsUrl="https://sjsu.edu/search/index.html"></div>             
+						</div>					
+				</nav><!-- /nav.global.mobile -->
+			</div><!-- /wrap.content -->
+			<span class="u-gradientbar"></span>
+		</div><!-- /wrap.globalnav -->         <div class="o-wrap--breadcrumb u-gradientbar">
+            <div class="o-wrap--content">
+               <nav role="navigation" id="breadcrumb" class="o-nav--breadcrumb clearfix" aria-label="breadcrumb">
+                  <ol class="o-nav--breadcrumb__menu"><!--Text value is blank-->
+                     <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/">Home</a></li>
+                     <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/classes/">Class Schedule</a></li>
+                     <li class="o-nav--breadcrumb__item"><a href="https://www.sjsu.edu/classes/schedules/">Schedules</a></li>
+                     <li class="o-nav--breadcrumb__item"><a aria-current="page">Winter 2023</a></li>
+                  </ol>
+               </nav>
+            </div>
+         </div>
+         <div class="o-wrap--content ">
+            <p id="maintitle" class="o-title o-title--site show-for-large"><a class="o-title--site__link" href="https://www.sjsu.edu/classes/index.php">Class Schedules</a></p><a id="subtitle" class="o-title o-title--parent-org show-for-large" href="https://www.sjsu.edu/provost/index.php">Academic Affairs</a></div>
+      </header>
+      <div class="o-wrap--sitenav show-for-small-only">
+   <div class="o-wrap--content">
+      <nav id="sitenav-mobile" class="top-bar o-nav--site" data-topbar="data-topbar" role="navigation" aria-label="Site nav menu for small screens">
+         <div class="top-bar-title" data-responsive-toggle="sitenav-mobile-menu" data-hide-for="medium">
+            <div class="o-nav--site__title">
+               <h1><a class="o-title o-title--site-mobile " href="https://www.sjsu.edu/classes/index.php">Class Schedules</a></h1><span class="o-title o-title--parent-org-mobile"><a href="https://www.sjsu.edu/provost/index.php">Academic Affairs</a></span></div>
+            <div class="o-nav--site__toggle"><button class="o-nav--site__button u-icon--hamburger u-color--sjsu-blue" type="button" data-toggle="sitenav-mobile-menu">Menu</button></div>
+         </div>
+         <div id="sitenav-mobile-menu" style="min-width:100%">
+            <ul class="vertical menu accordion-menu" data-accordion-menu="data-accordion-menu" data-submenu-toggle="data-submenu-toggle">
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/schedules/index.php">Schedules</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/index.php">Schedules</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/spring-2023.php">Spring 2023</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/winter-2023.php">Winter 2023</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/fall-2022.php">Fall 2022</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/schedules/subject-notes/index.php">Subject Notes</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/index.php">Subject Notes</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/fall-2020.php">Fall 2020</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/fall-2021.php">Fall 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/fall-2022.php">Fall 2022</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/spring-2021.php">Spring 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/spring-2022.php">Spring 2022</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/subject-notes/spring-2023.php">Spring 2023</a></li>
+                        </ul>
+                     </li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/schedules/archive/index.php">Archive</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/index.php">Archive</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/summer-2020.php">Summer 2020</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/winter-2020.php">Winter 2020</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/fall-2021.php">Fall 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/spring-2022.php">Spring 2022</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/summer-2021.php">Summer 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/summer-2022.php">Summer 2022</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/spring-2021.php">Spring 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/winter-2021.php">Winter 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/winter-2022.php">Winter 2022</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/schedules/archive/fall-2020.php">Fall 2020</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/calendar/index.php">Calendar</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/calendar/index.php">Calendar</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/calendar/2021-2022.php">2021-2022</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/calendar/2022-2023.php">2022-2023</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/calendar/archive/index.php">Archive</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/calendar/archive/index.php">Archive</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/calendar/archive/2020-2021.php">2020-2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/calendar/archive/2019-2020.php">2019-2020</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/final-exam-schedule/index.php">Final Exam Schedule</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/index.php">Final Exam Schedule</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/fall-2022.php">Fall 2022</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/policy.php">Final Exam Policy</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/final-exam-schedule/archive/index.php">Archive</a><ul class="menu">
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/archive/index.php">Archive</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/archive/fall-2021.php">Fall 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/archive/spring-2021.php">Spring 2021</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/archive/fall-2020.php">Fall 2020</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/archive/spring-2020.php">Spring 2020</a></li>
+                           <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/final-exam-schedule/archive/fall-2019.php">Fall 2019</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link" href="/classes/register/index.php">Register</a><ul class="menu">
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/register/index.php">Register</a></li>
+                     <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/register/myscheduler.php">MyScheduler</a></li>
+                  </ul>
+               </li>
+               <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--mobile" href="/classes/symbols-abbreviations.php">Symbols &amp; Abbreviations</a></li>
+            </ul>
+         </div>
+      </nav>
+   </div>
+</div><div class="o-wrap--sitenav hide-for-small-only">
+   <div class="o-wrap--content">
+      <nav id="sitenav" class="o-nav--site" role="navigation" aria-label="Site nav menu">
+         <ul class="dropdown menu" data-dropdown-menu="data-dropdown-menu">
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/classes/schedules/index.php">Schedules</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="/classes/schedules/spring-2023.php" class="gtm-nav--site">Spring&nbsp;2023</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/schedules/winter-2023.php" class="gtm-nav--site">Winter&nbsp;2023</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/schedules/fall-2022.php" class="gtm-nav--site">Fall&nbsp;2022</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/schedules/subject-notes/index.php" class="gtm-nav--site">Subject&nbsp;Notes</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/schedules/archive/index.php" class="gtm-nav--site">Archive</a></li>
+               </ul>
+            </li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/classes/calendar/index.php">Calendar</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="/classes/calendar/2021-2022.php" class="gtm-nav--site">2021-2022</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/calendar/2022-2023.php" class="gtm-nav--site">2022-2023</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/calendar/archive/index.php" class="gtm-nav--site">Archive</a></li>
+               </ul>
+            </li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/classes/final-exam-schedule/index.php">Final Exam Schedule</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="/classes/final-exam-schedule/fall-2022.php" class="gtm-nav--site">Fall&nbsp;2022</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/final-exam-schedule/policy.php" class="gtm-nav--site">Final&nbsp;Exam&nbsp;Policy</a></li>
+                  <li class="o-nav--site__item"><a href="/classes/final-exam-schedule/archive/index.php" class="gtm-nav--site">Archive</a></li>
+               </ul>
+            </li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/classes/register/index.php">Register</a><ul class="menu">
+                  <li class="o-nav--site__item"><a href="/classes/register/myscheduler.php" class="gtm-nav--site">MyScheduler</a></li>
+               </ul>
+            </li>
+            <li class="o-nav--site__item"><a class="o-nav--site__top-link gtm-nav--site" href="/classes/symbols-abbreviations.php">Symbols&nbsp;&amp;&nbsp;Abbreviations</a></li>
+         </ul>
+      </nav>
+   </div>
+</div>      <div class="o-region o-region--maincontent">
+         <div class="o-region--maincontent__main">
+            <main id="maincontent" role="main">
+               <h1 class="o-title--class-schedule">Winter 2023 Class Schedule</h1>
+               <div class="o-wrap--content">
+                  <p>There are three different types of modes of instruction: <a href="/classes/symbols-abbreviations.php#instruction%20mode">Fully Online, Hybrid, and In-Person</a> (definitions linked). <em>Students must be in compliance with COVID vaccination requirements to enroll in classes
+                        meeting In Person or Hybrid modalities.</em> <strong>Some instruction modes and classes times may change before registration opens<em>. </em></strong><em>&nbsp;</em>The first day of advanced registration for continuing students is Wednesday, October
+                     12, 2022. <a href="/classes/register/index.php">Register for classes</a> by using <a href="https://www.sjsu.edu/sfs/MyScheduler/index.html">MyScheduler</a>, which will generate every possible schedule for you so you can maximize your course
+                     selections and remain on track for a timely graduation.&nbsp;</p>
+                  <!--Current Type is blank-->
+                  <ul id="accordion-d13e140" class="o-accordion vertical menu accordion-menu" data-accordion-menu="data-accordion-menu">
+                     <li class="o-accordion__item"><a class="o-accordion__link" data-parent="#accordion-d13e140" href="#collapse-d13e140-1">
+                           Online Learning Readiness
+                           </a><ul class="menu vertical nested" id="collapse-d13e140-1">
+                           <li class="o-accordion__item--nested">Before enrolling in an online course, students should first assess their readiness
+                              for stepping into the online learning environment by completing the&nbsp;<a href="/ecampus/how-we-can-help/online-learning-readiness.php">Online Learning Readiness Questionnaire.</a></li>
+                        </ul>
+                     </li>
+                     <li class="o-accordion__item"><a class="o-accordion__link" data-parent="#accordion-d13e140" href="#collapse-d13e140-2">
+                           Using the Search
+                           </a><ul class="menu vertical nested" id="collapse-d13e140-2">
+                           <li class="o-accordion__item--nested">
+                              
+                              <p>Use the Search bar to filter by section and/or mode of instruction (e.g. typing "Fully
+                                 Online MATH" will provide a list of all MATH courses taught fully online.) When the
+                                 schedule indicates TBA (to be announced) or TBD (to be determined) in the days, times,
+                                 or notes columns, it means that the class is scheduled with&nbsp;asynchronous instruction
+                                 (no designated day/time meetings). Real-time class listings, including textbook and
+                                 course information, are found at&nbsp;<a href="https://one.sjsu.edu/">one.sjsu.edu</a>&nbsp;by searching for 'Class Search' in the Search Box.</p>
+                              </li>
+                        </ul>
+                     </li>
+                  </ul>
+                  
+                  <h2>Class Schedule Listing</h2>
+                  
+                  <p><button id="btnLoadTable" class="button" type="button" onclick="removeButton()">Load Class Schedule</button>&nbsp;</p>
+                  		
+                  	</div>
+               <div class="o-wrap--class-schedule">
+                  <table id="classSchedule" class="responsive display o-table o-table--class-schedule hide" style="width:100%">
+                     <thead>
+                        <tr>
+                           <th class="all" width="10%" data-priority="1">Section</th>
+                           <th>Class Number</th>
+                           <th>Mode of Instruction</th>
+                           <th class="all" data-priority="2">Course Title</th>
+                           <th>Satisfies</th>
+                           <th>Units</th>
+                           <th>Type</th>
+                           <th data-priority="3">Days</th>
+                           <th data-priority="4">Times</th>
+                           <th>Instructor</th>
+                           <th>Location</th>
+                           <th data-priority="3">Dates</th>
+                           <th data-priority="2">Open Seats</th>
+                           <th>Notes</th>
+                        </tr>
+                     </thead>
+                     <tbody><tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=AAS&filter%5B29%5D=33A&navoid=4972">AAS 33A (Section 01)</a></td>
+<td>10163</td>
+<td>Fully Online</td>
+<td>Asian Americans in U.S. History I</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:soo.choi@sjsu.edu">Soo Choi</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=AAS&filter%5B29%5D=33B&navoid=4972">AAS 33B (Section 01)</a></td>
+<td>10165</td>
+<td>In Person</td>
+<td>Asian Americans in U.S. History II</td>
+<td>GE: D+US</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTW</td>
+<td>09:00AM-11:42AM</td>
+<td><a href="mailto:hien.do@sjsu.edu">Hien Do</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  11</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=AMS&filter%5B29%5D=139&navoid=4972">AMS 139 (Section 01)</a></td>
+<td>10316</td>
+<td>Fully Online</td>
+<td>Animals and Society</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:todd.ormsbee@sjsu.edu">J. Todd Ormsbee</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   1</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=AMS&filter%5B29%5D=159&navoid=4972">AMS 159 (Section 01)</a></td>
+<td>10310</td>
+<td>Fully Online</td>
+<td>Nature and World Cultures</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:daniel.rivers@sjsu.edu">Daniel Rivers</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   6</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ANTH&filter%5B29%5D=107&navoid=4972">ANTH 107 (Section 01)</a></td>
+<td>10022</td>
+<td>Fully Online</td>
+<td>Eating Culture: The Anthropology of Food</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:melissa.beresford@sjsu.edu">Melissa Beresford</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  13</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ANTH&filter%5B29%5D=115&navoid=4972">ANTH 115 (Section 01)</a></td>
+<td>10028</td>
+<td>Fully Online</td>
+<td>The Emerging Global Culture</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:qmccrary@gmail.com">Quincy Mccrary</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   6</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ANTH&filter%5B29%5D=140&navoid=4972">ANTH 140 (Section 01)</a></td>
+<td>10042</td>
+<td>Fully Online</td>
+<td>Human Sexuality</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sungjay.ou@sjsu.edu">Sung Jay Ou</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  17</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ANTH&filter%5B29%5D=160&navoid=4972">ANTH 160 (Section 01)</a></td>
+<td>10024</td>
+<td>Fully Online</td>
+<td>Reconstructing Lost Civilizations</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:alicia.hedges@sjsu.edu">Alicia Hedges</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ANTH&filter%5B29%5D=160&navoid=4972">ANTH 160 (Section 02)</a></td>
+<td>10025</td>
+<td>Fully Online</td>
+<td>Reconstructing Lost Civilizations</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:charlotte.sunseri@sjsu.edu">Charlotte Sunseri</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ASIA&filter%5B29%5D=104&navoid=4972">ASIA 104 (Section 01)</a></td>
+<td>10117</td>
+<td>Fully Online</td>
+<td>Asian Philosophy</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:bo.mou@sjsu.edu">Bo Mou</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  27</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ASIA&filter%5B29%5D=115&navoid=4972">ASIA 115 (Section 01)</a></td>
+<td>10030</td>
+<td>Fully Online</td>
+<td>The Emerging Global Culture</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:qmccrary@gmail.com">Quincy Mccrary</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BIOL&filter%5B29%5D=54&navoid=4972">BIOL 54 (Section 01)</a></td>
+<td>10157</td>
+<td>Fully Online</td>
+<td>Human Understanding</td>
+<td>GE: E</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:mary.poffenroth@sjsu.edu">Mary Poffenroth</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  15</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BIOL&filter%5B29%5D=110&navoid=4972">BIOL 110 (Section 01)</a></td>
+<td>10155</td>
+<td>Fully Online</td>
+<td>Biodiversity and Biopolitics</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:elizabeth.mcgee@sjsu.edu">Elizabeth Mcgee-Bergerol</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BIOL&filter%5B29%5D=140&navoid=4972">BIOL 140 (Section 01)</a></td>
+<td>10046</td>
+<td>Fully Online</td>
+<td>Human Sexuality</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sungjay.ou@sjsu.edu">Sung Jay Ou</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS1&filter%5B29%5D=20&navoid=4972">BUS1 20 (Section 01)</a></td>
+<td>10269</td>
+<td>In Person</td>
+<td>Financial Accounting</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>03:00PM-05:55PM</td>
+<td><a href="mailto:yacoub.moussa@sjsu.edu">Yacoub Moussa</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  12</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS1&filter%5B29%5D=21&navoid=4972">BUS1 21 (Section 01)</a></td>
+<td>10299</td>
+<td>Fully Online</td>
+<td>Managerial Accounting</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-11:55AM</td>
+<td><a href="mailto:maria.bullen@sjsu.edu">Maria Bullen</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  12</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS1&filter%5B29%5D=170&navoid=4972">BUS1 170 (Section 01)</a></td>
+<td>10213</td>
+<td>In Person</td>
+<td>Fundamentals of Finance</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-11:55AM</td>
+<td><a href="mailto:Bahram.Parineh@sjsu.edu">Bahram Parineh</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=90&navoid=4972">BUS2 90 (Section 01)</a></td>
+<td>10326</td>
+<td>In Person</td>
+<td>Business Statistics</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>09:00AM-12:15PM</td>
+<td><a href="mailto:ann.kalinowski@sjsu.edu">Ann Kalinowski</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  29</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=130&navoid=4972">BUS2 130 (Section 01)</a></td>
+<td>10328</td>
+<td>Fully Online</td>
+<td>Introduction to Marketing</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MW <br> TBA</td>
+<td>MW <br> 09:00AM-12:15PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:jennifer.bechkoff@sjsu.edu">Jennifer Bechkoff</a> / <a href="mailto:jennifer.bechkoff@sjsu.edu">Jennifer Bechkoff</a></td>
+<td>ONLINE <br> ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - 2 meeting patterns: (1) designated online with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=130&navoid=4972">BUS2 130 (Section 02)</a></td>
+<td>10329</td>
+<td>In Person</td>
+<td>Introduction to Marketing</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-12:15PM</td>
+<td><a href="mailto:michael.merz@sjsu.edu">Michael Merz</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=134A&navoid=4972">BUS2 134A (Section 01)</a></td>
+<td>10332</td>
+<td>In Person</td>
+<td>Consumer Behavior</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>09:00AM-12:15PM</td>
+<td><a href="mailto:miwa.merz@sjsu.edu">Miwa Merz</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  26</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=138&navoid=4972">BUS2 138 (Section 01)</a></td>
+<td>10334</td>
+<td>In Person</td>
+<td>Marketing Research</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>09:00AM-12:15PM</td>
+<td><a href="mailto:jing.zhang@sjsu.edu">Jing Zhang</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  26</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=190&navoid=4972">BUS2 190 (Section 01)</a></td>
+<td>10336</td>
+<td>Fully Online</td>
+<td>Quantitative Business Analysis</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TR <br> TBA</td>
+<td>TR <br> 09:00AM-12:15PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:mahboubeh.madadi@sjsu.edu">Mahboubeh Madadi</a> / <a href="mailto:mahboubeh.madadi@sjsu.edu">Mahboubeh Madadi</a></td>
+<td>ONLINE <br> ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - 2 meeting patterns: (1) designated online with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS2&filter%5B29%5D=190&navoid=4972">BUS2 190 (Section 02)</a></td>
+<td>10337</td>
+<td>In Person</td>
+<td>Quantitative Business Analysis</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>09:00AM-12:15PM</td>
+<td><a href="mailto:benny.boveda@sjsu.edu">Benny Boveda</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=160&navoid=4972">BUS3 160 (Section 01)</a></td>
+<td>10016</td>
+<td>In Person</td>
+<td>Fundamentals of Management and Organizational Behavior</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>06:00PM-09:00PM</td>
+<td><a href="mailto:mike.hill@sjsu.edu">Mike Hill</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>0</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=186&navoid=4972">BUS3 186 (Section 01)</a></td>
+<td>10139</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:timothy.johnston@sjsu.edu">Timothy Johnston</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   4</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=186&navoid=4972">BUS3 186 (Section 02)</a></td>
+<td>10140</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:carlos.sanchez@sjsu.edu">Carlos Sanchez</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   6</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=186&navoid=4972">BUS3 186 (Section 03)</a></td>
+<td>10141</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rebecca.s.chan@sjsu.edu">Rebecca Chan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   4</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=186&navoid=4972">BUS3 186 (Section 04)</a></td>
+<td>10142</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:anand.vaidya@sjsu.edu">Anand Vaidya</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   9</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=189&navoid=4972">BUS3 189 (Section 01)</a></td>
+<td>10018</td>
+<td>In Person</td>
+<td>Strategic Management</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>06:00PM-09:00PM</td>
+<td><a href="mailto:larry.gee@sjsu.edu">Larry Gee</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS3&filter%5B29%5D=189&navoid=4972">BUS3 189 (Section 02)</a></td>
+<td>10020</td>
+<td>Fully Online</td>
+<td>Strategic Management</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>01:00PM-04:00PM</td>
+<td><a href="mailto:thomas.shirley@sjsu.edu">Thomas Shirley</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS5&filter%5B29%5D=140&navoid=4972">BUS5 140 (Section 01)</a></td>
+<td>10147</td>
+<td>In Person</td>
+<td>Fundamentals of Operations Management</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-12:10PM</td>
+<td><a href="mailto:arvinder.loomba@sjsu.edu">Arvinder Loomba</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS5&filter%5B29%5D=140&navoid=4972">BUS5 140 (Section 02)</a></td>
+<td>10148</td>
+<td>In Person</td>
+<td>Fundamentals of Operations Management</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>01:00PM-04:10PM</td>
+<td><a href="mailto:christopher.lim@sjsu.edu">Christopher Lim</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   2</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS5&filter%5B29%5D=187&navoid=4972">BUS5 187 (Section 01)</a></td>
+<td>10151</td>
+<td>In Person</td>
+<td>Global Dimensions of Business</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-12:10PM</td>
+<td><a href="mailto:damon.moon@sjsu.edu">Damon Moon</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   9</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=BUS5&filter%5B29%5D=187&navoid=4972">BUS5 187 (Section 02)</a></td>
+<td>10152</td>
+<td>Fully Online</td>
+<td>Global Dimensions of Business</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>01:00PM-04:10PM</td>
+<td><a href="mailto:tanvi.kothari@sjsu.edu">Tanvi Kothari</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=CA&filter%5B29%5D=173&navoid=4972">CA 173 (Section 01)</a></td>
+<td>10318</td>
+<td>Fully Online</td>
+<td>Thinking About Contemporary World Arts</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:shannonrose.riley@sjsu.edu">Shannon Rose Riley</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=10&navoid=4972">COMM 10 (Section 01)</a></td>
+<td>10237</td>
+<td>Fully Online</td>
+<td>Communication and Human Relationships</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:arjunbuxi@gmail.com">Arjun Buxi</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  12</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=10&navoid=4972">COMM 10 (Section 02)</a></td>
+<td>10238</td>
+<td>Fully Online</td>
+<td>Communication and Human Relationships</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:dana.morella@sjsu.edu">Dana Morella-Pozzi</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  11</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=10&navoid=4972">COMM 10 (Section 03)</a></td>
+<td>10239</td>
+<td>Fully Online</td>
+<td>Communication and Human Relationships</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:kathleen.raiff@sjsu.edu">Kathleen Raiff</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  12</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=20&navoid=4972">COMM 20 (Section 01)</a></td>
+<td>10243</td>
+<td>Fully Online</td>
+<td>Public Speaking</td>
+<td>GE: A1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:roxanne.cnudde@sjsu.edu">Roxanne Cnudde</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=20&navoid=4972">COMM 20 (Section 02)</a></td>
+<td>10244</td>
+<td>Fully Online</td>
+<td>Public Speaking</td>
+<td>GE: A1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:tina.lim@sjsu.edu">Tina Lim</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=20&navoid=4972">COMM 20 (Section 03)</a></td>
+<td>10245</td>
+<td>Fully Online</td>
+<td>Public Speaking</td>
+<td>GE: A1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:amarissamathews@gmail.com">Amarissa Mathews</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   4</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=20&navoid=4972">COMM 20 (Section 04)</a></td>
+<td>10246</td>
+<td>Fully Online</td>
+<td>Public Speaking</td>
+<td>GE: A1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:priya.raman@sjsu.edu">Priya Raman</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=20&navoid=4972">COMM 20 (Section 05)</a></td>
+<td>10247</td>
+<td>Fully Online</td>
+<td>Public Speaking</td>
+<td>GE: A1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:diana.mejiasalinas@sjsu.edu">Cristina Mejía</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=41&navoid=4972">COMM 41 (Section 01)</a></td>
+<td>10253</td>
+<td>Fully Online</td>
+<td>Critical Decision Making</td>
+<td>GE: A3</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:elizabeth.mcmurray@sjsu.edu">Beth Mcmurray</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=41&navoid=4972">COMM 41 (Section 02)</a></td>
+<td>10254</td>
+<td>Fully Online</td>
+<td>Critical Decision Making</td>
+<td>GE: A3</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rahmon.pashtunyar@sjsu.edu">Rahmon Pashtunyar</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  14</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=110F&navoid=4972">COMM 110F (Section 01)</a></td>
+<td>10261</td>
+<td>Fully Online</td>
+<td>Interpersonal Communication</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:kathy.werking@sjsu.edu">Kathy Werking</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=145I&navoid=4972">COMM 145I (Section 01)</a></td>
+<td>10263</td>
+<td>Fully Online</td>
+<td>Rhetorical and Cultural Criticism</td>
+<td></td>
+<td> 4.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:gina.firenzi@sjsu.edu">Gina Firenzi</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   1</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=155I&navoid=4972">COMM 155I (Section 01)</a></td>
+<td>10265</td>
+<td>Fully Online</td>
+<td>Quantitative Communication Inquiry</td>
+<td></td>
+<td> 4.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:felipe.gomez@sjsu.edu">Felipe Gómez</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  19</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=174&navoid=4972">COMM 174 (Section 01)</a></td>
+<td>10257</td>
+<td>Fully Online</td>
+<td>Intercultural Comm and Structural Inequalities</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rona.halualani@sjsu.edu">Rona Halualani</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=176P&navoid=4972">COMM 176P (Section 01)</a></td>
+<td>10267</td>
+<td>Fully Online</td>
+<td>Communication and Gender</td>
+<td></td>
+<td> 4.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:jennifer.morrison@sjsu.edu">Jennifer Morrison</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  11</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=COMM&filter%5B29%5D=179&navoid=4972">COMM 179 (Section 01)</a></td>
+<td>10259</td>
+<td>Fully Online</td>
+<td>Global Media and Resistance</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:carol-lynn.perez@sjsu.edu">Carol-Lynn Perez</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=DSGD&filter%5B29%5D=127&navoid=4972">DSGD 127 (Section 01)</a></td>
+<td>10014</td>
+<td>Fully Online</td>
+<td>Design Practicum</td>
+<td></td>
+<td> 3.0</td>
+<td>ACT</td>
+<td>MTWR</td>
+<td>03:00PM-07:00PM</td>
+<td><a href="mailto:chang.kim@sjsu.edu">Chang Kim</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=1A&navoid=4972">ECON 1A (Section 01)</a></td>
+<td>10179</td>
+<td>Fully Online</td>
+<td>Principles of Economics: Macroeconomics</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:gh.lang08@gmail.com">Ghislaine Lang</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  27</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=1B&navoid=4972">ECON 1B (Section 01)</a></td>
+<td>10181</td>
+<td>Fully Online</td>
+<td>Principles of Economics: Microeconomics</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:fahmida.fakhruddin@sjsu.edu">Fahmida Fakhruddin</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  29</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=101&navoid=4972">ECON 101 (Section 01)</a></td>
+<td>10183</td>
+<td>Fully Online</td>
+<td>Microeconomic Analysis</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:ninos.malek@sjsu.edu">Ninos Malek</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  31</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=103A&navoid=4972">ECON 103A (Section 01)</a></td>
+<td>10187</td>
+<td>Fully Online</td>
+<td>Introduction to Econometrics and Research Methods</td>
+<td></td>
+<td> 4.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:marjan.orang@sjsu.edu">Marjan Orang</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  31</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=104&navoid=4972">ECON 104 (Section 01)</a></td>
+<td>10189</td>
+<td>Fully Online</td>
+<td>Mathematical Methods for Economics</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rui.liu@sjsu.edu">Rui Liu</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  32</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=112&navoid=4972">ECON 112 (Section 01)</a></td>
+<td>10235</td>
+<td>Fully Online</td>
+<td>Economic Development</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:mark.brady@sjsu.edu">Mark Brady</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  26</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ECON&filter%5B29%5D=132&navoid=4972">ECON 132 (Section 01)</a></td>
+<td>10191</td>
+<td>Fully Online</td>
+<td>Public Finance</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:patralekha.ukil@sjsu.edu">Patralekha Ukil</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  29</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENGL&filter%5B29%5D=173&navoid=4972">ENGL 173 (Section 01)</a></td>
+<td>10320</td>
+<td>Fully Online</td>
+<td>Thinking About Contemporary World Arts</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:shannonrose.riley@sjsu.edu">Shannon Rose Riley</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENVS&filter%5B29%5D=1&navoid=4972">ENVS 1 (Section 01)</a></td>
+<td>10291</td>
+<td>Fully Online</td>
+<td>Introduction to Environmental Issues</td>
+<td>GE: A3</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-11:45AM</td>
+<td><a href="mailto:padmaja.iyer@sjsu.edu">Pj Iyer</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  18</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENVS&filter%5B29%5D=10&navoid=4972">ENVS 10 (Section 01)</a></td>
+<td>10293</td>
+<td>Fully Online</td>
+<td>Life on a Changing Planet</td>
+<td>GE: B2</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:metha.klock@sjsu.edu">Metha Klock</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  32</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENVS&filter%5B29%5D=111&navoid=4972">ENVS 111 (Section 01)</a></td>
+<td>10010</td>
+<td>Fully Online</td>
+<td>Geology and the Environment</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:manny.gabet@sjsu.edu">Emmanuel Gabet</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENVS&filter%5B29%5D=111&navoid=4972">ENVS 111 (Section 02)</a></td>
+<td>10011</td>
+<td>Fully Online</td>
+<td>Geology and the Environment</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:nathaniel.bogie@sjsu.edu">Nathaniel Bogie</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  27</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENVS&filter%5B29%5D=150&navoid=4972">ENVS 150 (Section 01)</a></td>
+<td>10295</td>
+<td>Fully Online</td>
+<td>Introduction to Environmental Thought</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:will.russell@sjsu.edu">Will Russell</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   2</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=ENVS&filter%5B29%5D=159&navoid=4972">ENVS 159 (Section 01)</a></td>
+<td>10312</td>
+<td>Fully Online</td>
+<td>Nature and World Cultures</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:daniel.rivers@sjsu.edu">Daniel Rivers</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  20</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=FS&filter%5B29%5D=11&navoid=4972">FS 11 (Section 01)</a></td>
+<td>10059</td>
+<td>Fully Online</td>
+<td>Survey of Forensic Science</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:shawna.bolton@sjsu.edu">Shawna Bolton</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=GEOG&filter%5B29%5D=112&navoid=4972">GEOG 112 (Section 01)</a></td>
+<td>10308</td>
+<td>Fully Online</td>
+<td>Nations, Cultures a Globalization</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:kathrine.richardson@sjsu.edu">Kathrine Richardson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=GEOL&filter%5B29%5D=103&navoid=4972">GEOL 103 (Section 01)</a></td>
+<td>10004</td>
+<td>Fully Online</td>
+<td>Earth Systems and the Environment</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:joseph.petsche@sjsu.edu">Joseph Petsche</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=GEOL&filter%5B29%5D=111&navoid=4972">GEOL 111 (Section 01)</a></td>
+<td>10006</td>
+<td>Fully Online</td>
+<td>Geology and the Environment</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:manny.gabet@sjsu.edu">Emmanuel Gabet</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=GEOL&filter%5B29%5D=111&navoid=4972">GEOL 111 (Section 02)</a></td>
+<td>10007</td>
+<td>Fully Online</td>
+<td>Geology and the Environment</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:nathaniel.bogie@sjsu.edu">Nathaniel Bogie</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  27</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=GLST&filter%5B29%5D=1B&navoid=4972">GLST 1B (Section 01)</a></td>
+<td>10297</td>
+<td>Fully Online</td>
+<td>Introduction to Global Studies</td>
+<td>GE: B2</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rachel.lazzeriaerts@sjsu.edu">Rachel Lazzeri-Aerts</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  28</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=HIST&filter%5B29%5D=10B&navoid=4972">HIST 10B (Section 01)</a></td>
+<td>10069</td>
+<td>Fully Online</td>
+<td>Western Civilization</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:gregory.tomlinson@sjsu.edu">Gregory Tomlinson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  33</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=HIST&filter%5B29%5D=15&navoid=4972">HIST 15 (Section 01)</a></td>
+<td>10071</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. History</td>
+<td>GE: D+US1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:robert.cirivilleri@sjsu.edu">Robert Cirivilleri</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=HIST&filter%5B29%5D=170S&navoid=4972">HIST 170S (Section 01)</a></td>
+<td>10074</td>
+<td>Fully Online</td>
+<td>Topics in American History: American Identities and Institutions</td>
+<td>GE: S+US1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:katechilton@gmail.com">Katherine Chilton</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   3</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=HUM&filter%5B29%5D=159&navoid=4972">HUM 159 (Section 01)</a></td>
+<td>10314</td>
+<td>Fully Online</td>
+<td>Nature and World Cultures</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:daniel.rivers@sjsu.edu">Daniel Rivers</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=10&navoid=4972">JS 10 (Section 01)</a></td>
+<td>10061</td>
+<td>Fully Online</td>
+<td>Introduction to Justice Studies</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:elizabeth.pacheco@sjsu.edu">Elizabeth Tejada</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=25&navoid=4972">JS 25 (Section 01)</a></td>
+<td>10063</td>
+<td>Fully Online</td>
+<td>Introduction to Human Rights and Justice</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:roni.abusaad@sjsu.edu">Roni Abusaad</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=101&navoid=4972">JS 101 (Section 01)</a></td>
+<td>10065</td>
+<td>Fully Online</td>
+<td>Critical Issues and Ideas in Justice</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:edith.kinney@sjsu.edu">Edith Kinney</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=102&navoid=4972">JS 102 (Section 01)</a></td>
+<td>10067</td>
+<td>Fully Online</td>
+<td>Police and Society</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:greg.woods@sjsu.edu">Greg Woods</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=103&navoid=4972">JS 103 (Section 01)</a></td>
+<td>10073</td>
+<td>Fully Online</td>
+<td>Courts and Society</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:harold.peterson@sjsu.edu">Harold Peterson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=107&navoid=4972">JS 107 (Section 01)</a></td>
+<td>10079</td>
+<td>Fully Online</td>
+<td>Justice Management and Ethics</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:stephen.morewitz@sjsu.edu">Stephen Morewitz</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=114&navoid=4972">JS 114 (Section 01)</a></td>
+<td>10081</td>
+<td>Fully Online</td>
+<td>Research Methods in Justice Studies</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:michael.vallerga@sjsu.edu">Michael Vallerga</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  12</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=123&navoid=4972">JS 123 (Section 01)</a></td>
+<td>10083</td>
+<td>Fully Online</td>
+<td>Terrorism, Intelligence, and Security</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sambuddha.ghatak@sjsu.edu">Sambuddha Ghatak</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  13</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=132&navoid=4972">JS 132 (Section 01)</a></td>
+<td>10085</td>
+<td>Fully Online</td>
+<td>Race, Gender, Inequality and the Law</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:dina.kameda@sjsu.edu">Dina Kameda</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=150&navoid=4972">JS 150 (Section 01)</a></td>
+<td>10087</td>
+<td>Fully Online</td>
+<td>Gender and Crime</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:allison.martin@sjsu.edu">Allison Martin</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=151&navoid=4972">JS 151 (Section 01)</a></td>
+<td>10089</td>
+<td>Fully Online</td>
+<td>Criminological Theory</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:wilson.yuan@sjsu.edu">Yue Yuan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=152&navoid=4972">JS 152 (Section 01)</a></td>
+<td>10091</td>
+<td>Fully Online</td>
+<td>Juvenile Delinquency a Justice</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:susie.rivera@sjsu.edu">Susie Rivera</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  17</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=155&navoid=4972">JS 155 (Section 01)</a></td>
+<td>10093</td>
+<td>Fully Online</td>
+<td>Victimology</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sheree_martinek878@yahoo.com">Sheree Martinek</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=161&navoid=4972">JS 161 (Section 01)</a></td>
+<td>10095</td>
+<td>Fully Online</td>
+<td>Introduction to Cybercrime</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:bryce.westlake@sjsu.edu">Bryce Westlake</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  18</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=171&navoid=4972">JS 171 (Section 01)</a></td>
+<td>10097</td>
+<td>Fully Online</td>
+<td>Human Rights and Justice</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sang.kil@sjsu.edu">Sang Kil</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  20</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=JS&filter%5B29%5D=174&navoid=4972">JS 174 (Section 01)</a></td>
+<td>10099</td>
+<td>Fully Online</td>
+<td>Reproductive Justice</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:grace.howard@sjsu.edu">Grace Howard</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=31&navoid=4972">KIN 31 (Section 01)</a></td>
+<td>10193</td>
+<td>In Person</td>
+<td>Body Sculpting</td>
+<td>PE: PhysEd</td>
+<td> 1.0</td>
+<td>ACT</td>
+<td>MTWRF</td>
+<td>08:00AM-10:50AM</td>
+<td><a href="mailto:miles.pascal-gonzales@sjsu.edu">Miles Pascal-Gonzales</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=31&navoid=4972">KIN 31 (Section 02)</a></td>
+<td>10194</td>
+<td>Fully Online</td>
+<td>Body Sculpting</td>
+<td>PE: PhysEd</td>
+<td> 1.0</td>
+<td>ACT</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:alev.dietrich@sjsu.edu">Alev Dietrich</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=111&navoid=4972">KIN 111 (Section 01)</a></td>
+<td>10197</td>
+<td>Fully Online</td>
+<td>Sport a Movement in a Global Context</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TR <br> TBA</td>
+<td>TR <br> 12:30PM-01:45PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:daniel.murphy@sjsu.edu">Daniel Murphy</a> / <a href="mailto:daniel.murphy@sjsu.edu">Daniel Murphy</a></td>
+<td>ONLINE <br> ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> RL - Open to non majors. <br> FULLY ONLINE - 2 meeting patterns: (1) designated online with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=155&navoid=4972">KIN 155 (Section 01)</a></td>
+<td>10199</td>
+<td>Fully Online</td>
+<td>Exercise Physiology</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWR</td>
+<td>01:30PM-04:00PM</td>
+<td><a href="mailto:craig.cisar@sjsu.edu">Craig Cisar</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> CA - Students must register for one section of each activity listed. <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> PV - Prerequisite courses required. See course description. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=155&navoid=4972">KIN 155 (Section 02)</a></td>
+<td>10200</td>
+<td>In Person</td>
+<td>Exercise Physiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR</td>
+<td>08:00AM-10:30AM</td>
+<td><a href="mailto:craig.cisar@sjsu.edu">Craig Cisar</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> PV - Prerequisite courses required. See course description. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=155&navoid=4972">KIN 155 (Section 03)</a></td>
+<td>10201</td>
+<td>In Person</td>
+<td>Exercise Physiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR</td>
+<td>10:45AM-01:15PM</td>
+<td><a href="mailto:craig.cisar@sjsu.edu">Craig Cisar</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> PV - Prerequisite courses required. See course description. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=155&navoid=4972">KIN 155 (Section 62)</a></td>
+<td>10203</td>
+<td>In Person</td>
+<td>Exercise Physiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR</td>
+<td>08:00AM-10:30AM</td>
+<td><a href="mailto:craig.cisar@sjsu.edu">Craig Cisar</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> PV - Prerequisite courses required. See course description. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=155&navoid=4972">KIN 155 (Section 63)</a></td>
+<td>10204</td>
+<td>In Person</td>
+<td>Exercise Physiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR</td>
+<td>10:45AM-01:15PM</td>
+<td><a href="mailto:craig.cisar@sjsu.edu">Craig Cisar</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> PV - Prerequisite courses required. See course description. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=175&navoid=4972">KIN 175 (Section 01)</a></td>
+<td>10205</td>
+<td>Hybrid</td>
+<td>Measurement and Evaluation in Kinesiology</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWR <br> TBA</td>
+<td>MTWR <br> 10:45AM-01:15PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a> / <a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a></td>
+<td>  <br>  </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> CA - Students must register for one section of each activity listed. <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> HYBRID - 2 Meeting Patterns: (1) designated In Person with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus. Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=175&navoid=4972">KIN 175 (Section 02)</a></td>
+<td>10206</td>
+<td>Hybrid</td>
+<td>Measurement and Evaluation in Kinesiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR <br> TBA</td>
+<td>MTWR <br> 08:00AM-10:30AM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a> / <a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a></td>
+<td>  <br>  </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> HYBRID - 2 Meeting Patterns: (1) designated In Person with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus. Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=175&navoid=4972">KIN 175 (Section 03)</a></td>
+<td>10207</td>
+<td>Hybrid</td>
+<td>Measurement and Evaluation in Kinesiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR <br> TBA</td>
+<td>MTWR <br> 01:30PM-04:00PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a> / <a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a></td>
+<td>  <br>  </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> HYBRID - 2 Meeting Patterns: (1) designated In Person with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus. Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=175&navoid=4972">KIN 175 (Section 62)</a></td>
+<td>10209</td>
+<td>Hybrid</td>
+<td>Measurement and Evaluation in Kinesiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR <br> TBA</td>
+<td>MTWR <br> 08:00AM-10:30AM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a> / <a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a></td>
+<td>  <br>  </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> HYBRID - 2 Meeting Patterns: (1) designated In Person with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus. Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=175&navoid=4972">KIN 175 (Section 63)</a></td>
+<td>10210</td>
+<td>Hybrid</td>
+<td>Measurement and Evaluation in Kinesiology</td>
+<td> </td>
+<td>0</td>
+<td>ACT</td>
+<td>MTWR <br> TBA</td>
+<td>MTWR <br> 01:30PM-04:00PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a> / <a href="mailto:seungho.chang@sjsu.edu">Seung Ho Chang</a></td>
+<td>  <br>  </td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PU - At first class meeting students must furnish proof of completion of prerequisites. <br> HYBRID - 2 Meeting Patterns: (1) designated In Person with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus. Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities. <br> Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=198&navoid=4972">KIN 198 (Section 01)</a></td>
+<td>10211</td>
+<td>In Person</td>
+<td>Internship in Kinesiology</td>
+<td></td>
+<td> 1.0</td>
+<td>SUP</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:cole.armstrong@sjsu.edu">Cole Armstrong</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>  <br> RC - Requires department release of permission number. <br> RE - Requires negotiated agreements or contracts. Consult department. <br> RO - Not available to Open University students.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=KIN&filter%5B29%5D=198&navoid=4972">KIN 198 (Section 02)</a></td>
+<td>10212</td>
+<td>In Person</td>
+<td>Internship in Kinesiology</td>
+<td></td>
+<td> 2.0</td>
+<td>SUP</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:cole.armstrong@sjsu.edu">Cole Armstrong</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>  <br> RC - Requires department release of permission number. <br> RE - Requires negotiated agreements or contracts. Consult department. <br> RO - Not available to Open University students.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=MCOM&filter%5B29%5D=180&navoid=4972">MCOM 180 (Section 01)</a></td>
+<td>10052</td>
+<td>Fully Online</td>
+<td>Independent Study</td>
+<td></td>
+<td> 1.0</td>
+<td>SUP</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:phylis.west@sjsu.edu">Phyliswest Johnson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  10</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=MCOM&filter%5B29%5D=180&navoid=4972">MCOM 180 (Section 02)</a></td>
+<td>10053</td>
+<td>Fully Online</td>
+<td>Independent Study</td>
+<td></td>
+<td> 2.0</td>
+<td>SUP</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:phylis.west@sjsu.edu">Phyliswest Johnson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  10</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=MCOM&filter%5B29%5D=180&navoid=4972">MCOM 180 (Section 03)</a></td>
+<td>10055</td>
+<td>Fully Online</td>
+<td>Independent Study</td>
+<td></td>
+<td> 3.0</td>
+<td>SUP</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:phylis.west@sjsu.edu">Phyliswest Johnson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  10</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=METR&filter%5B29%5D=112&navoid=4972">METR 112 (Section 01)</a></td>
+<td>10002</td>
+<td>Fully Online</td>
+<td>Global Climate Changes</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:henry.bartholomew@sjsu.edu">Henry Bartholomew</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=MUSC&filter%5B29%5D=173&navoid=4972">MUSC 173 (Section 01)</a></td>
+<td>10322</td>
+<td>Fully Online</td>
+<td>Thinking About Contemporary World Arts</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:shannonrose.riley@sjsu.edu">Shannon Rose Riley</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  20</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PH&filter%5B29%5D=140&navoid=4972">PH 140 (Section 01)</a></td>
+<td>10048</td>
+<td>Fully Online</td>
+<td>Human Sexuality</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sungjay.ou@sjsu.edu">Sung Jay Ou</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=9&navoid=4972">PHIL 9 (Section 01)</a></td>
+<td>10101</td>
+<td>Fully Online</td>
+<td>Mathematics and Logic for General Education</td>
+<td>GE: B4</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto: ">Michael Sudduth</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=10&navoid=4972">PHIL 10 (Section 01)</a></td>
+<td>10103</td>
+<td>In Person</td>
+<td>Introduction to Philosophy</td>
+<td>GE: C2</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-12:00PM</td>
+<td><a href="mailto:David.McReynolds@sjsu.edu">David Mcreynolds</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=10&navoid=4972">PHIL 10 (Section 02)</a></td>
+<td>10104</td>
+<td>Fully Online</td>
+<td>Introduction to Philosophy</td>
+<td>GE: C2</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:trevor.gullion@sjsu.edu">Trevor Gullion</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   6</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=57&navoid=4972">PHIL 57 (Section 01)</a></td>
+<td>10107</td>
+<td>In Person</td>
+<td>Logic and Critical Reasoning</td>
+<td>GE: A3</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>12:00PM-03:00PM</td>
+<td><a href="mailto:Pharow99@gmail.com">Nathan Osborne</a></td>
+<td> </td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>Must be in compliance with COVID vaccination requirements to enroll in classes meeting In Person or Hybrid Modalities.</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=57&navoid=4972">PHIL 57 (Section 02)</a></td>
+<td>10108</td>
+<td>Fully Online</td>
+<td>Logic and Critical Reasoning</td>
+<td>GE: A3</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF <br> TBA</td>
+<td>MTWRF <br> 10:00AM-11:30AM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:krupa.patel@sjsu.edu">Krupa Patel</a> / <a href="mailto:krupa.patel@sjsu.edu">Krupa Patel</a></td>
+<td>ONLINE <br> ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - 2 meeting patterns: (1) designated online with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=61&navoid=4972">PHIL 61 (Section 01)</a></td>
+<td>10111</td>
+<td>Fully Online</td>
+<td>Moral Issues</td>
+<td>GE: C2</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:lisa.bernasconi@sjsu.edu">Lisa Bernasconi</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=66&navoid=4972">PHIL 66 (Section 01)</a></td>
+<td>10113</td>
+<td>Fully Online</td>
+<td>Introduction to Aesthetics</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF <br> TBA</td>
+<td>MTWRF <br> 10:00AM-11:30AM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:andrew.delunas@sjsu.edu">Andrew Delunas</a> / <a href="mailto:andrew.delunas@sjsu.edu">Andrew Delunas</a></td>
+<td>ONLINE <br> ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  14</td>
+<td>FULLY ONLINE - 2 meeting patterns: (1) designated online with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=104&navoid=4972">PHIL 104 (Section 01)</a></td>
+<td>10115</td>
+<td>Fully Online</td>
+<td>Asian Philosophy</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:bo.mou@sjsu.edu">Bo Mou</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  29</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=110&navoid=4972">PHIL 110 (Section 01)</a></td>
+<td>10121</td>
+<td>Fully Online</td>
+<td>Science, Technology and Human Values</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:iman.roohnavaz@sjsu.edu">Iman Roohnavaz</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=133&navoid=4972">PHIL 133 (Section 01)</a></td>
+<td>10123</td>
+<td>Fully Online</td>
+<td>Ethics in Science</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:jordan.liz@sjsu.edu">Jordan Liz</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  17</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=134&navoid=4972">PHIL 134 (Section 01)</a></td>
+<td>10125</td>
+<td>Fully Online</td>
+<td>Computers, Ethics and Society</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:javier.cardoza-kon@sjsu.edu">Javier Cardoza-Kon</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  27</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=134&navoid=4972">PHIL 134 (Section 02)</a></td>
+<td>10127</td>
+<td>Fully Online</td>
+<td>Computers, Ethics and Society</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:elizabeth.sonnier@sjsu.edu">Elizabeth Sonnier</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   4</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=160&navoid=4972">PHIL 160 (Section 01)</a></td>
+<td>10129</td>
+<td>Fully Online</td>
+<td>Philosophy of Science</td>
+<td>GE: R</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:james.lindahl@sjsu.edu">James Lindahl</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=186&navoid=4972">PHIL 186 (Section 01)</a></td>
+<td>10131</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:timothy.johnston@sjsu.edu">Timothy Johnston</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=186&navoid=4972">PHIL 186 (Section 02)</a></td>
+<td>10132</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:carlos.sanchez@sjsu.edu">Carlos Sanchez</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=186&navoid=4972">PHIL 186 (Section 03)</a></td>
+<td>10133</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rebecca.s.chan@sjsu.edu">Rebecca Chan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  26</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PHIL&filter%5B29%5D=186&navoid=4972">PHIL 186 (Section 04)</a></td>
+<td>10134</td>
+<td>Fully Online</td>
+<td>Professional and Business Ethics</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:anand.vaidya@sjsu.edu">Anand Vaidya</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>  <br> PZ - Prereq - Passage of WST, Upper Division standing and completion of CORE GE. Consult Catalog and Class Schedule Policies. If you met requirements at another institution. provide transcript to Student Services Center. <br> FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=15&navoid=4972">POLS 15 (Section 01)</a></td>
+<td>10032</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. a California Government</td>
+<td>GE: D+US23</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:AlSchendan@yahoo.com">Albert Schendan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=15&navoid=4972">POLS 15 (Section 02)</a></td>
+<td>10033</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. a California Government</td>
+<td>GE: D+US23</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:james.brent@sjsu.edu">James Brent</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  16</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=15&navoid=4972">POLS 15 (Section 03)</a></td>
+<td>10034</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. a California Government</td>
+<td>GE: D+US23</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:rfovetz@riseup.net">Robert Ovetz</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  16</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=15&navoid=4972">POLS 15 (Section 04)</a></td>
+<td>10035</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. a California Government</td>
+<td>GE: D+US23</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:kristina.mitchell@sjsu.edu">Kristina Mitchell</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  11</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=15&navoid=4972">POLS 15 (Section 05)</a></td>
+<td>10036</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. a California Government</td>
+<td>GE: D+US23</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:jeremy.abrams@sjsu.edu">Jeremy Abrams</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=15&navoid=4972">POLS 15 (Section 06)</a></td>
+<td>10037</td>
+<td>Fully Online</td>
+<td>Essentials of U.S. a California Government</td>
+<td>GE: D+US23</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:mary.currinpercival@sjsu.edu">Mary Currin-Percival</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=20&navoid=4972">POLS 20 (Section 01)</a></td>
+<td>10050</td>
+<td>Fully Online</td>
+<td>Controversial Legal Issues</td>
+<td>GE: A3</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sara.benson@sjsu.edu">Sara Benson</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  10</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=150&navoid=4972">POLS 150 (Section 01)</a></td>
+<td>10054</td>
+<td>Fully Online</td>
+<td>War and Peace</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:karthika.sasikumar@sjsu.edu">Karthika Sasikumar</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  19</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=POLS&filter%5B29%5D=170V&navoid=4972">POLS 170V (Section 01)</a></td>
+<td>10057</td>
+<td>Fully Online</td>
+<td>American Politics in Global Perspective</td>
+<td>GE: V+US23</td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:sergio.bejar@sjsu.edu">Sergio Bejar Lopez</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=1&navoid=4972">PSYC 1 (Section 01)</a></td>
+<td>10271</td>
+<td>Fully Online</td>
+<td>Introduction to Psychology</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:christine.ma-kellams@sjsu.edu">Christine Ma</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   7</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=18&navoid=4972">PSYC 18 (Section 01)</a></td>
+<td>10273</td>
+<td>Fully Online</td>
+<td>Introduction to Research Methods</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>10:30AM-01:30PM</td>
+<td><a href="mailto:myngoc.nguyen@sjsu.edu">Amy Nguyen</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  26</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=30&navoid=4972">PSYC 30 (Section 01)</a></td>
+<td>10275</td>
+<td>Fully Online</td>
+<td>Introductory Psychobiology</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>09:00AM-12:00PM</td>
+<td><a href="mailto:jill.citron@sjsu.edu">Jill Citron</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=102&navoid=4972">PSYC 102 (Section 01)</a></td>
+<td>10277</td>
+<td>Fully Online</td>
+<td>Psychology of Childhood</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:robin.schulte@sjsu.edu">Robin Schulte</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   1</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=110&navoid=4972">PSYC 110 (Section 01)</a></td>
+<td>10279</td>
+<td>Fully Online</td>
+<td>Adult Psychopathology</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:glenn.callaghan@sjsu.edu">Glenn Callaghan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   7</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=135&navoid=4972">PSYC 135 (Section 01)</a></td>
+<td>10281</td>
+<td>Fully Online</td>
+<td>Cognition</td>
+<td></td>
+<td> 3.0</td>
+<td>SEM</td>
+<td>MTWRF</td>
+<td>10:30AM-01:30PM</td>
+<td><a href="mailto:smacram@yahoo.com">Steven Macramalla</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  18</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=139&navoid=4972">PSYC 139 (Section 01)</a></td>
+<td>10283</td>
+<td>Fully Online</td>
+<td>Psychology of Personality</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF</td>
+<td>10:30AM-01:30PM</td>
+<td><a href="mailto:psychprof1@yahoo.com">Naomi Wagner</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  28</td>
+<td>FULLY ONLINE - Designated day/time online meetings. May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=155&navoid=4972">PSYC 155 (Section 01)</a></td>
+<td>10285</td>
+<td>Fully Online</td>
+<td>Human Learning</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>MTWRF <br> TBA</td>
+<td>MTWRF <br> 09:00AM-12:00PM <br> <br> TBA <br> TBA</td>
+<td><a href="mailto:steven.delchiaro@sjsu.edu">Steven Del Chiaro</a> / <a href="mailto:steven.delchiaro@sjsu.edu">Steven Del Chiaro</a></td>
+<td>ONLINE <br> ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - 2 meeting patterns: (1) designated online with day/time meetings; and (2) NO designated online day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=190&navoid=4972">PSYC 190 (Section 01)</a></td>
+<td>10287</td>
+<td>Fully Online</td>
+<td>Current Issues Capstone</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:laree.huntsman@sjsu.edu">Laree Huntsman</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=PSYC&filter%5B29%5D=191&navoid=4972">PSYC 191 (Section 01)</a></td>
+<td>10340</td>
+<td>Fully Online</td>
+<td>The Psychology of Prejudice</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:neelam.rattan@sjsu.edu">Neelam Rattan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RELS&filter%5B29%5D=104&navoid=4972">RELS 104 (Section 01)</a></td>
+<td>10119</td>
+<td>Fully Online</td>
+<td>Asian Philosophy</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:bo.mou@sjsu.edu">Bo Mou</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  35</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RTVF&filter%5B29%5D=10&navoid=4972">RTVF 10 (Section 01)</a></td>
+<td>10215</td>
+<td>Fully Online</td>
+<td>The Art of Film</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:haley.gilchrist@sjsu.edu">H. Gilchrist</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RTVF&filter%5B29%5D=10&navoid=4972">RTVF 10 (Section 02)</a></td>
+<td>10221</td>
+<td>Fully Online</td>
+<td>The Art of Film</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:alison.mckee@sjsu.edu">Alison Mckee</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RTVF&filter%5B29%5D=110&navoid=4972">RTVF 110 (Section 01)</a></td>
+<td>10217</td>
+<td>Fully Online</td>
+<td>Media and Culture</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:hojeong.lee@sjsu.edu">Hojeong Lee</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  29</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RTVF&filter%5B29%5D=110&navoid=4972">RTVF 110 (Section 02)</a></td>
+<td>10223</td>
+<td>Fully Online</td>
+<td>Media and Culture</td>
+<td>GE: S</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:joseph.biagini@sjsu.edu">Joseph Biagini</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   5</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RTVF&filter%5B29%5D=111&navoid=4972">RTVF 111 (Section 01)</a></td>
+<td>10219</td>
+<td>Fully Online</td>
+<td>Alternative Cinema</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:drew.todd@sjsu.edu">Drew Todd</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=RTVF&filter%5B29%5D=111&navoid=4972">RTVF 111 (Section 02)</a></td>
+<td>10224</td>
+<td>Fully Online</td>
+<td>Alternative Cinema</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:yasser.shahin@sjsu.edu">Yasser Shahin</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  14</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCI&filter%5B29%5D=1&navoid=4972">SOCI 1 (Section 01)</a></td>
+<td>10167</td>
+<td>Fully Online</td>
+<td>Introduction to Sociology</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:tracy.j.dehaan@gmail.com">Tracy Dehaan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  21</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCI&filter%5B29%5D=80&navoid=4972">SOCI 80 (Section 01)</a></td>
+<td>10173</td>
+<td>Fully Online</td>
+<td>Social Problems</td>
+<td>GE: D</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:markpasion@att.net">Mark Pasion</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  16</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCI&filter%5B29%5D=101&navoid=4972">SOCI 101 (Section 01)</a></td>
+<td>10171</td>
+<td>Fully Online</td>
+<td>Social Theory</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:mitra.rokni@sjsu.edu">Mitra Rokni</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  22</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCI&filter%5B29%5D=104&navoid=4972">SOCI 104 (Section 01)</a></td>
+<td>10177</td>
+<td>Fully Online</td>
+<td>Quantitative Research Methods</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:jason.dehaan@sjsu.edu">Jason Dehaan</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  20</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCI&filter%5B29%5D=116&navoid=4972">SOCI 116 (Section 01)</a></td>
+<td>10175</td>
+<td>Fully Online</td>
+<td>Global Society</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:steven.mejia@sjsu.edu">Steven Mejia</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  13</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCI&filter%5B29%5D=170&navoid=4972">SOCI 170 (Section 01)</a></td>
+<td>10169</td>
+<td>Fully Online</td>
+<td>Sociology of Family</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:morgan.sanchez@sjsu.edu">Morgan Sanchez</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  18</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SOCS&filter%5B29%5D=137&navoid=4972">SOCS 137 (Section 01)</a></td>
+<td>10077</td>
+<td>Fully Online</td>
+<td>California History for Teachers</td>
+<td></td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:wendy.rouse@sjsu.edu">Wendy Rouse</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  16</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SPAN&filter%5B29%5D=160A&navoid=4972">SPAN 160A (Section 01)</a></td>
+<td>10159</td>
+<td>Fully Online</td>
+<td>Hispanic Culture</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:damian.bacich@sjsu.edu">Damian Bacich</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  25</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=SPAN&filter%5B29%5D=260A&navoid=4972">SPAN 260A (Section 01)</a></td>
+<td>10161</td>
+<td>Fully Online</td>
+<td>Hispanic Culture</td>
+<td></td>
+<td> 4.0</td>
+<td>SEM</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:damian.bacich@sjsu.edu">Damian Bacich</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  27</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=STAT&filter%5B29%5D=95&navoid=4972">STAT 95 (Section 01)</a></td>
+<td>10289</td>
+<td>Fully Online</td>
+<td>Elementary Statistics</td>
+<td>GE: B4</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:nicholas.bathurst@sjsu.edu">Nick Bathurst</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=TA&filter%5B29%5D=10&navoid=4972">TA 10 (Section 01)</a></td>
+<td>10227</td>
+<td>Fully Online</td>
+<td>Theatre Appreciation</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:amy.glazer@sjsu.edu">Amy Glazer</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  23</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=TA&filter%5B29%5D=13&navoid=4972">TA 13 (Section 01)</a></td>
+<td>10229</td>
+<td>Fully Online</td>
+<td>Great Comedies for Theatre</td>
+<td>GE: C2</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:Kathleen.Normington@sjsu.edu">Kathleen Normington</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  28</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=TA&filter%5B29%5D=55&navoid=4972">TA 55 (Section 01)</a></td>
+<td>10231</td>
+<td>Fully Online</td>
+<td>Intro to Design for Theatre</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:andrea.bechert@sjsu.edu">Andrea Bechert</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  28</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=TA&filter%5B29%5D=55&navoid=4972">TA 55 (Section 02)</a></td>
+<td>10232</td>
+<td>Fully Online</td>
+<td>Intro to Design for Theatre</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>ACT</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:andrea.bechert@sjsu.edu">Andrea Bechert</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  28</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=TA&filter%5B29%5D=55&navoid=4972">TA 55 (Section 62)</a></td>
+<td>10234</td>
+<td>Fully Online</td>
+<td>Intro to Design for Theatre</td>
+<td>GE: C1</td>
+<td> 3.0</td>
+<td>ACT</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:andrea.bechert@sjsu.edu">Andrea Bechert</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>   0</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+<tr>
+<td><a href="https://catalog.sjsu.edu/content.php?filter%5B27%5D=TA&filter%5B29%5D=173&navoid=4972">TA 173 (Section 01)</a></td>
+<td>10324</td>
+<td>Fully Online</td>
+<td>Thinking About Contemporary World Arts</td>
+<td>GE: V</td>
+<td> 3.0</td>
+<td>LEC</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="mailto:shannonrose.riley@sjsu.edu">Shannon Rose Riley</a></td>
+<td>ONLINE</td>
+<td>01/03/23-01/20/23</td>
+<td>  24</td>
+<td>FULLY ONLINE - NO designated day/time meetings (TBA). May utilize Canvas. More info at sjsu.edu/ecampus</td>
+</tr>
+</tbody>
+                  </table>
+               </div>
+            </main>
+         </div>
+      </div>
+      <aside class="o-region o-region--contact u-bg--typeface-pattern-diamonds u-bg--fade-linear" role="complementary">
+   <div class="o-wrap--content">
+      <div class="o-region--contact__label">
+         <h2 class="o-region--contact__title">Class Schedule</h2>
+         <ul class="o-region--contact__social menu horizontal"></ul>
+      </div>
+   </div>
+   <div class="o-region--contact__block">
+      <div class="o-region--contact__item u-icon--big u-icon--phone u-color--sjsu-gray">
+         <h3 class="o-region--contact__heading">Contact Us</h3>
+         <div class="o-region--contact__detail">
+            <h4>Prospective Students</h4>
+            <p>Contact the <a href="https://www.sjsu.edu/admissions/">Admissions Office</a>.</p>
+            <h4>Current Students</h4>
+            <p>Contact <a href="/academics/colleges-and-departments.php">departments and colleges</a>.</p>
+            <h4>Academic College or Department Staff/Faculty</h4>
+            <p>Contact the <a href="https://www.sjsu.edu/academicscheduling/">Academic Scheduling and Space Management Department</a>.&nbsp;</p>
+         </div>
+      </div>
+   </div>
+</aside>
+<img class="o-coin" src="/aspis/media/brand/icon-spartan-withbackground.svg" alt=""/>
+<div class="o-wrap--footer">
+	<div class="o-wrap--content">        
+		<footer id="footer" class="o-region--footer" role="contentinfo">
+			<h2 class="show-for-sr">Footer</h2>
+			<div class="o-region--footer__social">
+				<p class="o-region--footer__uni-name">San Jos&eacute; State University</p>
+				<ul class="menu medium-horizontal o-region--footer__socialicons">
+					<li><a href="http://www.facebook.com/sanjosestate" class="u-icon--social u-icon--facebook u-color--sjsu-gold"><span class="show-for-sr">SJSU on Facebook</span></a></li>
+					<li><a href="https://twitter.com/sjsu" class="u-icon--social u-icon--twitter u-color--sjsu-gold"><span class="show-for-sr">SJSU on Twitter</span></a></li>
+					<li><a href="http://www.linkedin.com/company/san-jose-state-university" class="u-icon--social u-icon--linkedin u-color--sjsu-gold"><span class="show-for-sr">SJSU on LinkedIn</span></a></li>
+					<li><a href="http://www.instagram.com/sjsu" class="u-icon--social u-icon--instagram u-color--sjsu-gold"><span class="show-for-sr">SJSU on Instagram</span></a></li>  
+					<li><a href="http://www.youtube.com/user/sjsu" class="u-icon--social u-icon--youtube u-color--sjsu-gold"><span class="show-for-sr">SJSU on YouTube</span></a></li>   
+				</ul>
+			</div>
+
+			<div class="o-region--footer__address">
+				<p><img src="/aspis/media/brand/logo-sjsu.svg" alt="SJSU"/></p>
+				<ul class="vertical menu">
+					<li class="o-region--footer__item"><a rel="nofollow" class="o-region--footer__university-address u-icon--location u-color--white u-icon gtm-footer--link" href="#">One Washington Square<br/>San José, CA 95192</a></li>
+					<li class="o-region--footer__item"><a href="tel:4089241000" rel="nofollow" class="o-region--footer__university-phone u-icon--phone u-color--white u-icon gtm-footer--link">408-924-1000</a></li>
+					<li class="o-region--footer__item" style="padding-top:2rem;"><a href="https://www.sjsu.edu/online/index.php" class="gtm-footer--link u-icon u-icon--sjsuonline u-color--white" style="padding-left:2rem;">SJSU Online</a></li>
+				</ul>
+				<ul class="vertical menu">
+					<li class="o-region--footer__item"><span id="directedit">&nbsp;</span></li>
+				</ul>
+			</div>
+			<div class="o-region--footer__quicklinks">
+				<ul class="vertical menu large-horizontal">
+					<li class="o-region--footer__item"><a href="/accessibility/" class="gtm-footer--link">Accessibility</a></li>
+					<li class="o-region--footer__item"><a href="/titleix/" class="gtm-footer--link">Title IX</a></li>					
+					<li class="o-region--footer__item"><a href="https://www.sjsu.edu/diversity/" class="gtm-footer--link">Diversity</a></li>
+					<li class="o-region--footer__item"><a href="/diversity/land-acknowledgement/" class="gtm-footer--link">Land Acknowledgement</a></li>
+					<li class="o-region--footer__item"><a href="/privacy/index.php" class="gtm-footer--link">Privacy</a></li>
+				</ul>
+			</div>
+
+			<div class="o-region--footer__lists">
+				<div class="o-region--footer__list">
+					<h3 class="o-region--footer__heading">Colleges</h3>
+					<ul class="vertical menu">
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cob/" class="gtm-footer--link">Business</a></li>
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/education/" class="gtm-footer--link">Education</a></li>
+						<li class="o-region--footer__item"><a href="/engineering/" class="gtm-footer--link">Engineering</a></li>
+                		<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cgs/" class="gtm-footer--link">Graduate Studies</a></li>	
+						<li class="o-region--footer__item"><a href="/chhs/index.php" class="gtm-footer--link">Health and Human Sciences</a></li>						
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/humanitiesandarts/" class="gtm-footer--link">Humanities and the Arts</a></li>
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/cpge" class="gtm-footer--link">Professional and Global Education</a></li>
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/science/" class="gtm-footer--link">Science</a></li>
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/socialsciences/" class="gtm-footer--link">Social Science</a></li>
+					</ul>
+				</div>
+				<div class="o-region--footer__list">
+					<h3 class="o-region--footer__heading">Resources</h3>
+					<ul class="vertical menu">
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/siteindex" class="gtm-footer--link">A-Z Index</a></li>
+						<li class="o-region--footer__item"><a href="/clery/docs/SJSU-Annual-Security-Report.pdf" class="gtm-footer--link">Annual Security Report [pdf]</a></li>
+						<li class="o-region--footer__item"><a href="http://www.spartanbookstore.com/" class="gtm-footer--link">Bookstore</a></li>
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/calendars/" class="gtm-footer--link">Calendars</a></li>
+						<li class="o-region--footer__item"><a href="/careers/" class="gtm-footer--link">Careers and Jobs</a></li>
+						<li class="o-region--footer__item"><a href="https://catalog.sjsu.edu/index.php" class="gtm-footer--link">Catalog</a></li>
+						<li class="o-region--footer__item"><a href="/students/" class="gtm-footer--link">Current Students</a></li>
+						<li class="o-region--footer__item"><a href="/sjsucares/get-assistance/" class="gtm-footer--link">Emergency Food &amp; Housing</a></li>
+						<li class="o-region--footer__item"><a href="http://library.sjsu.edu/" class="gtm-footer--link">King Library</a></li>
+						<li class="o-region--footer__item"><a href="https://blogs.sjsu.edu/newsroom/" class="gtm-footer--link">NewsCenter</a></li>
+						<li class="o-region--footer__item"><a href="https://www.sjsu.edu/parkingtransportationmaps/" class="gtm-footer--link">Parking and Maps</a></li>
+					</ul>
+				</div>
+				<div class="o-region--footer__list">
+					<h3 class="o-region--footer__heading">Contact Us</h3>
+					<ul class="vertical menu">
+						<li class="o-region--footer__item"><a href="/contact/index.php" class="gtm-footer--link">Contact Form</a></li>
+						<li class="o-region--footer__item"><a href="http://directory.sjsu.edu/" class="gtm-footer--link">Directory</a></li>
+						<li class="o-region--footer__item"><a href="/about/doing-business-with-sjsu.php" class="gtm-footer--link">Doing Business with SJSU</a></li>
+						<li class="o-region--footer__item"><a href="/emergency/" class="gtm-footer--link">Emergency Info</a></li>
+						<li class="o-region--footer__item"><a href="/it/services/web/forms/website-problem.php" class="gtm-footer--link">Report a Web Problem</a></li>
+						<li class="o-region--footer__item"><a href="/titleix/reporting-incidents/" class="gtm-footer--link">Report a Title IX Complaint</a></li>
+					</ul>
+				</div>
+			</div>
+
+		</footer><!-- /#sjsufooter -->
+	</div><!-- /wrap.content -->
+</div><!-- /wrap.footer -->
+<span class="u-gradientbar--footer"></span>  
+<script src="/aspis/js/vendor/jquery.js"></script>
+<script src="/aspis/js/vendor/what-input.js"></script>
+<script src="/aspis/js/vendor/foundation.js"></script>		
+<script src="/aspis/js/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script>
+	$(document).foundation();	
+	$("#globalnav-desktop").accessibleMegaMenu({
+		/* prefix for generated unique id attributes, which are required 
+        to indicate aria-owns, aria-controls and aria-labelledby */
+		uuidPrefix: "accessible-megamenu",
+		/* css class used to define the megamenu styling */
+		menuClass: "amm-o-nav__menu",
+		/* css class for a top-level navigation item in the megamenu */
+		topNavItemClass: "amm-o-nav__top-item",
+		/* css class for a megamenu panel */
+		panelClass: "amm-o-nav__panel",
+		/* css class for a group of items within a megamenu panel */
+		panelGroupClass: "amm-o-nav__group",
+		/* css class for the hover state */
+		hoverClass: "hover",
+		/* css class for the focus state */
+		focusClass: "focus",
+		/* css class for the open state */
+		openClass: "open"
+	});
+</script>
+<script src="/aspis/js/vendor/direct-edit.js"></script>
+<script>
+$(function() {
+	
+	var currentClass = "this-page";
+	var secondClass = "ou-this-page";
+	var url = window.location.pathname;
+	var currentDirectory = url.substr(0, url.lastIndexOf("\/"));
+	// hightlight the top level navigation
+	$("#sitenav a").each(function(index, value){
+		var current = $(value).attr('href');
+		if (current.indexOf("index.php") > -1) {
+			current = current.substring(0, current.length - 9);
+		}
+		else { current = $(value).attr('href'); }
+		if(document.URL.lastIndexOf(current) >= 0){	$(value).parent().addClass(currentClass);}
+
+	});
+	// hightlight the current page
+	$("#sjsu-localnav a").each(function(index, value){
+		var $current = $(value);
+		if ($current.attr('href') == window.location.pathname || $current.attr('href') == window.location.pathname + "index.php") {
+			$current.parent().addClass(currentClass).addClass(secondClass);
+		}
+	});
+	// find the current page in side navigation
+	var $thisPage = $("#sjsu-localnav li." + secondClass);
+	// add a class to the current page siblings, if index page
+	$thisPage.children().children("li").addClass("o-nav--local__item--nested");
+	// add a class to the local parent
+	$thisPage.parent().siblings("a").parent().addClass("o-nav--local__parent");
+	// remove nested items when this page is on a index page
+	$(".o-nav--local__item--nested ul").remove();
+	// remove nested items when this page is on a regular page
+	$("." + secondClass).siblings().children("ul").remove();
+	// remove nested items when this page is on a index page
+	if ($('.o-nav--local__parent').length){
+		$('.o-nav--local__item').not('.o-nav--local__parent .o-nav--local__item, .o-nav--local__parent').filter(function(){
+			return !$(this).find('.o-nav--local__parent').length;
+		}).remove();
+	}
+	// removed for #50397
+	//else if ($("#sjsu-localnav").length && currentNavigationStart != ""){
+		//$('.o-nav--local__item ul').remove()
+	//}
+	// replace the content of the <ul> with the proper URL
+	$('#sjsu-localnav > ul').html($('.o-nav--local__parent').closest('ul').html());
+	$("#sjsu-localnav li." + secondClass).removeClass(secondClass);
+
+	// gcse customizations
+		$('#gsc-i-id1').prop('placeholder','Search SJSU');
+		$('#gsc-i-id1').css({
+			'height':'2rem',
+			'border':'none',
+			'background':'none'
+		});
+	
+	// Section Title color detection
+	/*
+	$(".o-wrap--section-title").each(function(index) {
+		if ( $(this).next().hasClass('o-wrap--bg-dark') ) {
+			$(this).children().addClass('u-lighten-title-on-dark-bg');			
+			if ( $(this).prev().hasClass('o-wrap--bg-dark') ) {
+				$(this).prev().addClass('u-padding-bottom-zero');
+			}
+		}
+
+	});
+	*/
+	
+	var vid = document.getElementById("bgvid");
+
+	if (vid) {
+
+		pauseButton = document.getElementById("vidpause");
+		
+		if (prefersReducedMotion) {
+			vid.removeAttribute("autoplay");
+			vid.pause();
+			pauseButton.innerHTML = '<span class="show-for-sr ou-span-allowed">Play Video</span>';
+		}
+	
+		vid.addEventListener('ended', function() {
+			// only functional if "loop" is removed 
+			 vid.pause();
+			// to capture IE10
+			$('.o-billboard__pause').removeClass('u-icon--pause');
+			$('.o-billboard__pause').addClass('u-icon--play');
+		});			
+		
+		
+		$( ".o-billboard__pause" ).on( "click", function() {
+			video = $('#bgvid');
+			if (video.get(0).paused) {
+
+				video.get(0).play();
+				$(this).toggleClass('u-icon--pause u-icon--play');
+				$(this).html('<span class="show-for-sr ou-span-allowed">Pause Video</span>');
+			}
+			else {
+
+				video.get(0).pause();
+				$(this).toggleClass('u-icon--pause u-icon--play');
+				$(this).html('<span class="show-for-sr ou-span-allowed">Play Video</span>');
+
+			}
+		});	
+		
+	}
+
+	
+});
+</script>
+
+<!-- temporary SiteImprove tracking -->
+
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_66356220.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+
+<!-- CPGE Pardot tracking -->
+
+<!-- Tracks page visits to determine interest in programs -->
+<script type="text/javascript">
+piAId = '301271';
+piCId = '16617';
+piHostname = 'pi.pardot.com';
+
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script> 
+<!-- /CPGE Pardot tracking -->
+
+<!-- Munchkin / Marketo tracking code -->
+<!-- Used to track responses to email newsletters -->
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('663-UKQ-998');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+<!-- AdTaxi Signal Tag -->
+<!-- Used for SCM 2021 Transform-Impact Marketing Campaign -->
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.btstatic.com/tag.js#site=1PR3l09";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//s.thebrighttag.com/iframe?c=1PR3l09" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- /AdTaxi Signal Tag -->      <div id="hidden" style="display:none;"><a href="https://a.cms.omniupdate.com/11/?skin=sjsu&amp;account=sjsu&amp;site=www&amp;action=de&amp;path=/classes/schedules/winter-2023.pcf" target="_top" rel="nofollow" id="de">Last Updated Oct 25, 2022</a></div>
+      		
+      <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+      		
+      <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css">
+      		<script type="text/javascript" src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+      		<script type="text/javascript" src="//cdn.datatables.net/responsive/2.2.5/js/dataTables.responsive.min.js"></script>
+      		<script>
+
+			function removeButton() {
+			$('#btnLoadTable').remove();
+			loadExtract();
+			}
+
+			function loadExtract() {
+			$('#classSchedule').dataTable( {
+			"columnDefs": [
+			{ "searchable": false, "targets": [1,3,5,6,7,8,9,10,11,12] }
+			]
+			} ).removeClass('hide');
+
+			}
+
+		</script>
+      
+      
+      	</body>
+</html>
