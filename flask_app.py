@@ -1,5 +1,4 @@
-from flask import Flask, request
-import json
+from flask import Flask, request, jsonify
 import logging
 from database import getSemesters, getCourseCodes, getCourses, getSeatData
 
@@ -10,13 +9,17 @@ app = Flask(__name__)
 def courseCodes():
     app.logger.info("\n"+str(request.headers))
 
-    return json.dumps(getCourseCodes())
+    response = jsonify(getCourseCodes())
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 @app.route("/semesters")
 def semesters():
     app.logger.info("\n"+str(request.headers))
 
-    return json.dumps(getSemesters())
+    response = jsonify(getSemesters())
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 @app.route("/data")
 def enrollmentData():
@@ -44,7 +47,10 @@ def enrollmentData():
                 "seats": [{"d": s[0], "n":s[1]} for s in getSeatData(uuid=c.uuid)]
             }
         )
-    return json.dumps(jcourses)
+
+    response = jsonify(jcourses)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80)
