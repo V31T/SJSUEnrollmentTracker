@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from waitress import serve
 import logging
 from database import getSemesters, getCourseCodes, getCourses, getSeatData
 
@@ -53,5 +54,4 @@ def enrollmentData():
     return response
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=80)
-
+    serve(app, host='0.0.0.0', port=80)
