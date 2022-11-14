@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import os
 from helper_classes import Course
-from database import processCourse
+from database import processCourse, getSingleThreadedCursor
 
 
 def fileToEpochDays(path):
@@ -59,8 +59,11 @@ def scrapeAndInsert(path, uniqueName, uniquePrefix, epochDays):
     if len(l) == 14:
       courses.append(parseTD(uniqueName, uniquePrefix, l))
 
+  cursor = getSingleThreadedCursor()
   for course in courses:
-    processCourse(course, epochDays=epochDays)
+    processCourse(cursor, course, epochDays=epochDays)
+
+  cursor.connection.close()
 
 for filename in os.scandir("pages"):
     if filename.is_file():

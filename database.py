@@ -19,100 +19,103 @@ DATES_TABLE = "dates_id"
 
 SEAT_HISTORY_TABLE = "seatHistory"
 
-connection = sqlite3.connect(DATABASE_FILE_PATH, check_same_thread=False) #TODO: turning off the checking might be a bad idea
-cursor = connection.cursor()
+def getSingleThreadedCursor():
+  connection = sqlite3.connect(DATABASE_FILE_PATH)
+  return connection.cursor()
 
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {SEMESTER_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  name TEXT,
-  UNIQUE(name));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {CODE_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  code TEXT,
-  UNIQUE(code));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {MODALITY_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  modality TEXT,
-  UNIQUE(modality));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {TITLE_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  title TEXT,
-  UNIQUE(title));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {GE_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  ge TEXT,
-  UNIQUE(ge));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {TYPE_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  type TEXT,
-  UNIQUE(type));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {DAYS_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  days TEXT,
-  UNIQUE(days));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {TIMES_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  times TEXT,
-  UNIQUE(times));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {INSTRUCTOR_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  instructor TEXT,
-  UNIQUE(instructor));
-''')
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {DATES_TABLE} 
-  (id INTEGER PRIMARY KEY AUTOINCREMENT,
-  dates TEXT,
-  UNIQUE(dates));
-''')
-# Create the course information table if it does not exist already.
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {COURSE_INFO_TABLE} 
-  (uuid INTEGER PRIMARY KEY,
-  semesterNameID INTEGER,
-  codeID INTEGER,
-  section INTEGER,
-  courseNumber INTEGER,
-  modalityID INTEGER,
-  titleID INTEGER,
-  geID INTEGER,
-  units REAL,
-  typeID INTEGER,
-  daysID INTEGER,
-  timesID INTEGER,
-  instructorID INTEGER,
-  location TEXT,
-  datesID INTEGER);
-''')
+def initDB(cursor):
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {SEMESTER_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT,
+    UNIQUE(name));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {CODE_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    code TEXT,
+    UNIQUE(code));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {MODALITY_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    modality TEXT,
+    UNIQUE(modality));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {TITLE_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT,
+    UNIQUE(title));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {GE_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    ge TEXT,
+    UNIQUE(ge));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {TYPE_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    type TEXT,
+    UNIQUE(type));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {DAYS_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    days TEXT,
+    UNIQUE(days));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {TIMES_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    times TEXT,
+    UNIQUE(times));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {INSTRUCTOR_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    instructor TEXT,
+    UNIQUE(instructor));
+  ''')
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {DATES_TABLE} 
+    (id INTEGER PRIMARY KEY AUTOINCREMENT,
+    dates TEXT,
+    UNIQUE(dates));
+  ''')
+  # Create the course information table if it does not exist already.
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {COURSE_INFO_TABLE} 
+    (uuid INTEGER PRIMARY KEY,
+    semesterNameID INTEGER,
+    codeID INTEGER,
+    section INTEGER,
+    courseNumber INTEGER,
+    modalityID INTEGER,
+    titleID INTEGER,
+    geID INTEGER,
+    units REAL,
+    typeID INTEGER,
+    daysID INTEGER,
+    timesID INTEGER,
+    instructorID INTEGER,
+    location TEXT,
+    datesID INTEGER);
+  ''')
 
+  # Create the seat history table if it does not exist already. Ensure that a course cannot have multiple entries for the same day.
+  cursor.execute(f'''
+    CREATE TABLE IF NOT EXISTS {SEAT_HISTORY_TABLE} 
+    (uuid INTEGER,
+    seats INTEGER,
+    epochDay INTEGER,
+    UNIQUE(uuid, epochDay));
+  ''')
 
-# Create the seat history table if it does not exist already. Ensure that a course cannot have multiple entries for the same day.
-cursor.execute(f'''
-  CREATE TABLE IF NOT EXISTS {SEAT_HISTORY_TABLE} 
-  (uuid INTEGER,
-  seats INTEGER,
-  epochDay INTEGER,
-  UNIQUE(uuid, epochDay));
-''')
+  cursor.connection.commit()
 
-def semesterNameToId(name: str):
+def semesterNameToId(cursor, name: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {SEMESTER_TABLE}
@@ -120,7 +123,7 @@ def semesterNameToId(name: str):
     ''', [name]).fetchone()
   return l[0] if l is not None else None
 
-def idToSemesterName(id: int):
+def idToSemesterName(cursor, id: int):
   l = cursor.execute(f'''
       SELECT name
       FROM {SEMESTER_TABLE}
@@ -128,7 +131,7 @@ def idToSemesterName(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def codeToId(code: str):
+def codeToId(cursor, code: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {CODE_TABLE}
@@ -136,7 +139,7 @@ def codeToId(code: str):
     ''', [code]).fetchone()
   return l[0] if l is not None else None
 
-def idToCode(id: int):
+def idToCode(cursor, id: int):
   l = cursor.execute(f'''
       SELECT code
       FROM {CODE_TABLE}
@@ -144,7 +147,7 @@ def idToCode(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def modalityToId(modality: str):
+def modalityToId(cursor, modality: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {MODALITY_TABLE}
@@ -152,7 +155,7 @@ def modalityToId(modality: str):
     ''', [modality]).fetchone()
   return l[0] if l is not None else None
 
-def idToModality(id: int):
+def idToModality(cursor, id: int):
   l = cursor.execute(f'''
       SELECT modality
       FROM {MODALITY_TABLE}
@@ -160,7 +163,7 @@ def idToModality(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def titleToId(title: str):
+def titleToId(cursor, title: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {TITLE_TABLE}
@@ -168,7 +171,7 @@ def titleToId(title: str):
     ''', [title]).fetchone()
   return l[0] if l is not None else None
 
-def idToTitle(id: int):
+def idToTitle(cursor, id: int):
   l = cursor.execute(f'''
       SELECT title
       FROM {TITLE_TABLE}
@@ -176,7 +179,7 @@ def idToTitle(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def geToId(ge: str):
+def geToId(cursor, ge: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {GE_TABLE}
@@ -184,7 +187,7 @@ def geToId(ge: str):
     ''', [ge]).fetchone()
   return l[0] if l is not None else None
 
-def idToGe(id: int):
+def idToGe(cursor, id: int):
   l = cursor.execute(f'''
       SELECT ge
       FROM {GE_TABLE}
@@ -192,7 +195,7 @@ def idToGe(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def typeToId(type: str):
+def typeToId(cursor, type: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {TYPE_TABLE}
@@ -200,7 +203,7 @@ def typeToId(type: str):
     ''', [type]).fetchone()
   return l[0] if l is not None else None
 
-def idToType(id: int):
+def idToType(cursor, id: int):
   l = cursor.execute(f'''
       SELECT type
       FROM {TYPE_TABLE}
@@ -208,7 +211,7 @@ def idToType(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def daysToId(days: str):
+def daysToId(cursor, days: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {DAYS_TABLE}
@@ -216,7 +219,7 @@ def daysToId(days: str):
     ''', [days]).fetchone()
   return l[0] if l is not None else None
 
-def idToDays(id: int):
+def idToDays(cursor, id: int):
   l = cursor.execute(f'''
       SELECT days
       FROM {DAYS_TABLE}
@@ -224,7 +227,7 @@ def idToDays(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def timesToId(times: str):
+def timesToId(cursor, times: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {TIMES_TABLE}
@@ -232,7 +235,7 @@ def timesToId(times: str):
     ''', [times]).fetchone()
   return l[0] if l is not None else None
 
-def idToTimes(id: int):
+def idToTimes(cursor, id: int):
   l = cursor.execute(f'''
       SELECT times
       FROM {TIMES_TABLE}
@@ -240,7 +243,7 @@ def idToTimes(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def instructorToId(instructor: str):
+def instructorToId(cursor, instructor: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {INSTRUCTOR_TABLE}
@@ -248,7 +251,7 @@ def instructorToId(instructor: str):
     ''', [instructor]).fetchone()
   return l[0] if l is not None else None
 
-def idToInstructor(id: int):
+def idToInstructor(cursor, id: int):
   l = cursor.execute(f'''
       SELECT instructor
       FROM {INSTRUCTOR_TABLE}
@@ -256,7 +259,7 @@ def idToInstructor(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def datesToId(dates: str):
+def datesToId(cursor, dates: str):
   l = cursor.execute(f'''
       SELECT id
       FROM {DATES_TABLE}
@@ -264,7 +267,7 @@ def datesToId(dates: str):
     ''', [dates]).fetchone()
   return l[0] if l is not None else None
 
-def idTodates(id: int):
+def idTodates(cursor, id: int):
   l = cursor.execute(f'''
       SELECT dates
       FROM {DATES_TABLE}
@@ -272,7 +275,7 @@ def idTodates(id: int):
     ''', [id]).fetchone()
   return l[0] if l is not None else None
 
-def processCourse(c: Course, epochDays=None):
+def processCourse(cursor, c: Course, epochDays=None):
   # enter the ids into id tables
   cursor.execute(f'INSERT OR IGNORE INTO {SEMESTER_TABLE} (name) VALUES (?)', [c.semesterName])
   cursor.execute(f'INSERT OR IGNORE INTO {CODE_TABLE} (code) VALUES (?)', [c.code])
@@ -285,14 +288,14 @@ def processCourse(c: Course, epochDays=None):
   cursor.execute(f'INSERT OR IGNORE INTO {INSTRUCTOR_TABLE} (instructor) VALUES (?)', [c.instructor])
   cursor.execute(f'INSERT OR IGNORE INTO {DATES_TABLE} (dates) VALUES (?)', [c.dates])
 
-  connection.commit()
+  cursor.connection.commit()
 
   # Insert the course information into the course info table if it needs to be updated or is not there.
   cursor.execute(f'''
     REPLACE INTO {COURSE_INFO_TABLE}
     (semesterNameID, uuid, codeID, section, courseNumber, modalityID, titleID, geID, units, typeID, daysID, timesID, instructorID, location, datesID)
     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);
-  ''', [semesterNameToId(c.semesterName), c.uuid, codeToId(c.code), c.section, c.courseNumber, modalityToId(c.modality), titleToId(c.title), geToId(c.ge), c.units, typeToId(c.type), daysToId(c.days), timesToId(c.times), instructorToId(c.instructor), c.location, datesToId(c.dates)])
+  ''', [semesterNameToId(cursor, c.semesterName), c.uuid, codeToId(cursor, c.code), c.section, c.courseNumber, modalityToId(cursor, c.modality), titleToId(cursor, c.title), geToId(cursor, c.ge), c.units, typeToId(cursor, c.type), daysToId(cursor, c.days), timesToId(cursor, c.times), instructorToId(cursor, c.instructor), c.location, datesToId(cursor, c.dates)])
 
   # Insert the seat information into the seat history table along with the current day and course uuid.
   if epochDays is None:
@@ -303,9 +306,9 @@ def processCourse(c: Course, epochDays=None):
     VALUES (?,?,?);
   ''', [c.uuid, c.seats, epochDays])
 
-  connection.commit()
+  cursor.connection.commit()
 
-def getSemesters() -> list:
+def getSemesters(cursor) -> list:
   l = cursor.execute(f'''
       SELECT name
       FROM {SEMESTER_TABLE}
@@ -313,7 +316,7 @@ def getSemesters() -> list:
   semesters = [t[0] for t in l]
   return semesters
 
-def getCourseCodes() -> list:
+def getCourseCodes(cursor) -> list:
   l = cursor.execute(f'''
         SELECT code
         FROM {CODE_TABLE}
@@ -321,33 +324,33 @@ def getCourseCodes() -> list:
   codes = [t[0] for t in l]
   return codes
 
-def getCourses(semesterName: str) -> List[Course]:
+def getCourses(cursor, semesterName: str) -> List[Course]:
   l = cursor.execute(f'''
     SELECT semesterNameID, uuid, codeID, section, courseNumber, modalityID, titleID, geID, units, typeID, daysID, timesID, instructorID, location, datesID 
     FROM {COURSE_INFO_TABLE}
     WHERE semesterNameID=?;
-  ''', [semesterNameToId(semesterName)]).fetchall()
-  courses = [Course(idToSemesterName(c[0]), c[1], idToCode(c[2]), c[3], c[4], idToModality(c[5]), idToTitle(c[6]), idToGe(c[7]), c[8], idToType(c[9]), idToDays(c[10]), idToTimes(c[11]), idToInstructor(c[12]), c[13], idTodates(c[14]), -1) for c in l]
+  ''', [semesterNameToId(cursor, semesterName)]).fetchall()
+  courses = [Course(idToSemesterName(cursor, c[0]), c[1], idToCode(cursor, c[2]), c[3], c[4], idToModality(cursor, c[5]), idToTitle(cursor, c[6]), idToGe(cursor, c[7]), c[8], idToType(cursor, c[9]), idToDays(cursor, c[10]), idToTimes(cursor, c[11]), idToInstructor(cursor, c[12]), c[13], idTodates(cursor, c[14]), -1) for c in l]
   return courses
 
-def getCourses(semesterName: str, courseCode: str) -> List[Course]:
+def getCourses(cursor, semesterName: str, courseCode: str) -> List[Course]:
   l = cursor.execute(f'''
     SELECT semesterNameID, uuid, codeID, section, courseNumber, modalityID, titleID, geID, units, typeID, daysID, timesID, instructorID, location, datesID 
     FROM {COURSE_INFO_TABLE}
     WHERE semesterNameID=? AND codeID=?;
-  ''', [semesterNameToId(semesterName), codeToId(courseCode)]).fetchall()
-  courses = [Course(idToSemesterName(c[0]), c[1], idToCode(c[2]), c[3], c[4], idToModality(c[5]), idToTitle(c[6]), idToGe(c[7]), c[8], idToType(c[9]), idToDays(c[10]), idToTimes(c[11]), idToInstructor(c[12]), c[13], idTodates(c[14]), -1) for c in l]
+  ''', [semesterNameToId(cursor, semesterName), codeToId(cursor, courseCode)]).fetchall()
+  courses = [Course(idToSemesterName(cursor, c[0]), c[1], idToCode(cursor, c[2]), c[3], c[4], idToModality(cursor, c[5]), idToTitle(cursor, c[6]), idToGe(cursor, c[7]), c[8], idToType(cursor, c[9]), idToDays(cursor, c[10]), idToTimes(cursor, c[11]), idToInstructor(cursor, c[12]), c[13], idTodates(cursor, c[14]), -1) for c in l]
   return courses
 
-def getAllCourses() -> List[Course]:
+def getAllCourses(cursor) -> List[Course]:
   l = cursor.execute(f'''
     SELECT semesterNameID, uuid, codeID, section, courseNumber, modalityID, titleID, geID, units, typeID, daysID, timesID, instructorID, location, datesID 
     FROM {COURSE_INFO_TABLE};
   ''').fetchall()
-  courses = [Course(idToSemesterName(c[0]), c[1], idToCode(c[2]), c[3], c[4], idToModality(c[5]), idToTitle(c[6]), idToGe(c[7]), c[8], idToType(c[9]), idToDays(c[10]), idToTimes(c[11]), idToInstructor(c[12]), c[13], idTodates(c[14]), -1) for c in l]
+  courses = [Course(idToSemesterName(cursor, c[0]), c[1], idToCode(cursor, c[2]), c[3], c[4], idToModality(cursor, c[5]), idToTitle(cursor, c[6]), idToGe(cursor, c[7]), c[8], idToType(cursor, c[9]), idToDays(cursor, c[10]), idToTimes(cursor, c[11]), idToInstructor(cursor, c[12]), c[13], idTodates(cursor, c[14]), -1) for c in l]
   return courses
 
-def getSeatData(uuid: int) -> list:
+def getSeatData(cursor, uuid: int) -> list:
   l = cursor.execute(f'''
     SELECT epochDay, seats
     FROM {SEAT_HISTORY_TABLE}

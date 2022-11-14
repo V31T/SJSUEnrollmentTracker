@@ -1,16 +1,34 @@
-from flask import Flask, request, jsonify
+import flask.scaffold
+from flask import Flask, request, jsonify, g
 from waitress import serve
+import sqlite3
 import logging
-from database import getSemesters, getCourseCodes, getCourses, getSeatData
+from database import initDB, getSemesters, getCourseCodes, getCourses, getSeatData, DATABASE_FILE_PATH
 
 logging.basicConfig(filename='flask_app.log', level=logging.DEBUG, format='%(asctime)s %(levelname)s : %(message)s')
 app = Flask(__name__)
+
+def get_db():
+    db = getattr(g, '_database', None)
+    if db is None:
+        db = g._database = sqlite3.connect(DATABASE_FILE_PATH)
+    return db
+
+@app.teardown_appcontext
+def close_connection(exception):
+    db = getattr(g, '_database', None)
+    if db is not None:
+        db.close()
+
+@flask.scaffold.setupmethod
+def before_first_request():
+    initDB(get_db().cursor())
 
 @app.route("/coursecodes")
 def courseCodes():
     app.logger.info("\n"+str(request.headers))
 
-    response = jsonify(getCourseCodes())
+    response = jsonify(getCourseCodes(get_db().cursor()))
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
@@ -18,7 +36,7 @@ def courseCodes():
 def semesters():
     app.logger.info("\n"+str(request.headers))
 
-    response = jsonify(getSemesters())
+    response = jsonify(getSemesters(get_db().cursor()))
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
@@ -27,7 +45,7 @@ def enrollmentData():
     app.logger.info("\n"+str(request.headers))
 
     args = request.args
-    courses = getCourses(semesterName=args['semester'], courseCode=args['code'])
+    courses = getCourses(get_db().cursor(), semesterName=args['semester'], courseCode=args['code'])
 
     jcourses = []
     for c in courses:
@@ -45,7 +63,7 @@ def enrollmentData():
                 "instructor": c.instructor,
                 "location": c.location,
                 "dates": c.dates,
-                "seats": [{"d": s[0], "n":s[1]} for s in getSeatData(uuid=c.uuid)]
+                "seats": [{"d": s[0], "n":s[1]} for s in getSeatData(get_db().cursor(), uuid=c.uuid)]
             }
         )
 
@@ -55,3 +73,4 @@ def enrollmentData():
 
 if __name__ == '__main__':
     serve(app, host='0.0.0.0', port=80)
+    # serve(app, host='127.0.0.1', port=8000)

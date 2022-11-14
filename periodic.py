@@ -2,7 +2,7 @@ import logging
 from typing import List
 from helper_classes import Semester, Course
 from scrapers import ScraperWinter2023, ScraperSpring2023
-from database import processCourse
+from database import processCourse, getSingleThreadedCursor, initDB
 
 semesters = [
   Semester(scraper=ScraperWinter2023(), startRecording="10/12/2022", endRecording="1/5/2023"),
@@ -29,10 +29,14 @@ def validateUniqueSemesters():
 
 if __name__ == "__main__":
   validateUniqueSemesters()
+  cursor = getSingleThreadedCursor()
+  initDB(cursor)
   for sem in semesters:
     if sem.isActive():
       courses: List[Course] = sem.scraper.scrape()
       logging.info(f'{sem.scraper.uniqueName}: scraped {len(courses)} courses.')
       for course in courses:
-        processCourse(course)
+        processCourse(cursor, course)
       logging.info(f'{sem.scraper.uniqueName}: inserted courses into db.')
+
+  cursor.connection.close()
