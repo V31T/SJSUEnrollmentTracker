@@ -1,5 +1,5 @@
 import flask.scaffold
-from flask import Flask, request, jsonify, g
+from flask import Flask, request, jsonify, g, send_file
 from waitress import serve
 import sqlite3
 import logging
@@ -70,6 +70,10 @@ def enrollmentData():
     response = jsonify(jcourses)
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
+
+@app.route('/')
+def webpage():
+    return send_file('index.html')
 
 if __name__ == '__main__':
     serve(app, host='0.0.0.0', port=80)
