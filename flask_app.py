@@ -26,7 +26,7 @@ def before_first_request():
 
 @app.route("/coursecodes")
 def courseCodes():
-    app.logger.info("\n"+str(request.headers))
+    app.logger.info(f"/coursecodes {request.remote_addr} {request.headers.get('User-Agent')}")
 
     response = jsonify(getCourseCodes(get_db().cursor()))
     response.headers.add('Access-Control-Allow-Origin', '*')
@@ -34,7 +34,7 @@ def courseCodes():
 
 @app.route("/semesters")
 def semesters():
-    app.logger.info("\n"+str(request.headers))
+    app.logger.info(f"/semesters {request.remote_addr} {request.headers.get('User-Agent')}")
 
     response = jsonify(getSemesters(get_db().cursor()))
     response.headers.add('Access-Control-Allow-Origin', '*')
@@ -42,7 +42,7 @@ def semesters():
 
 @app.route("/data")
 def enrollmentData():
-    app.logger.info("\n"+str(request.headers))
+    app.logger.info(f"/data {request.remote_addr} {request.headers.get('User-Agent')}")
 
     args = request.args
     courses = getCourses(get_db().cursor(), semesterName=args['semester'], courseCode=args['code'])
@@ -73,6 +73,8 @@ def enrollmentData():
 
 @app.route('/')
 def webpage():
+    app.logger.info(f"/ {request.remote_addr} {request.headers.get('User-Agent')}")
+
     return send_file('index.html')
 
 if __name__ == '__main__':
