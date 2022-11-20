@@ -183,9 +183,12 @@ function filterData(data)
         if(modalityCheckBox.checked == false)
         {
             console.log("Enter")
-            for (let index in data) {
+            for (let index = 0; index < data.length; index++) {
                 if((data[index].modality).includes(modalityCheckBox.value))
+                {
                     data.splice(index,1);
+                    index--;
+                }
             }
         }
     }
@@ -194,12 +197,31 @@ function filterData(data)
         let daysCheckBox = document.getElementById("DaysCheckBox "+i);
         if(daysCheckBox.checked == false)
         {
-            for (let index in data) {
+            for (let index = 0; index < data.length; index++) {
+                console.log(data[index].section + " "+data[index].days)
                 if((data[index].days).includes(daysCheckBox.value))
+                {
                     data.splice(index,1);
+                    index--;
+                }
             }
         }
     }
     // Times Check
+    for (let i = 1; i <= 10 ; i++) {
+        let typeCheckBox = document.getElementById("TypeCheckBox "+i);
+        if(typeCheckBox.checked == false)
+        {
+            for (let index = 0; index < data.length; index++) {
+                console.log(data[index].type)
+                if((data[index].type).includes(typeCheckBox.value))
+                {
+                    data.splice(index,1);
+                    index--;
+                }
+            }
+        }
+    }
+
     return data;
 }
