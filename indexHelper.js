@@ -10,13 +10,13 @@ const colorArray = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6',
                 '#E64D66', '#4DB380', '#FF4D4D', '#99E6E6', '#6666FF'];
 
 function responseToDatasets(response) {
-    let datasets = [];
-    let i = 0;
     try {
         chart.options.plugins.title.text = `${response[0].title} - ${document.getElementById("semester").value}`;
     } catch {
         chart.options.plugins.title.text = 'No Data Available for Selection';
     }
+    let datasets = [];
+    let i = 0;
     for (const section of response) {
         let dataset = {};
         dataset.label = section.section.toString();
@@ -162,16 +162,6 @@ function updateChart(chart, datasets) {
     chart.update();
 }
 
-function onButtonPress() {
-    semester = document.getElementById("semester").value;
-    courseCode = document.getElementById("courseCodes").value;
-    fetchSeatData(semester, courseCode).then((data) => {
-        updateChart(chart, responseToDatasets(data));
-        updateTable(data);
-    });
-
-}
-
 function initSelects() {
     $('#courseCodes').select2({
         theme: "bootstrap-5",
@@ -183,4 +173,33 @@ function initSelects() {
         width: $(this).data('width') ? $(this).data('width') : $(this).hasClass('w-100') ? '100%' : 'style',
         placeholder: $(this).data('placeholder'),
     });
+}
+
+function filterData(data)
+{
+    // Modality Check
+    for (let i = 1; i <= 3 ; i++) {
+        let modalityCheckBox = document.getElementById("ModalityCheckBox "+i);
+        if(modalityCheckBox.checked == false)
+        {
+            console.log("Enter")
+            for (let index in data) {
+                if((data[index].modality).includes(modalityCheckBox.value))
+                    data.splice(index,1);
+            }
+        }
+    }
+    // Days Check
+    for (let i = 1; i <= 5 ; i++) {
+        let daysCheckBox = document.getElementById("DaysCheckBox "+i);
+        if(daysCheckBox.checked == false)
+        {
+            for (let index in data) {
+                if((data[index].days).includes(daysCheckBox.value))
+                    data.splice(index,1);
+            }
+        }
+    }
+    // Times Check
+    return data;
 }
