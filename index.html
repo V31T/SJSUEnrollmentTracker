@@ -25,7 +25,22 @@
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.0/dist/jquery.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.full.min.js"></script>
 
-
+    <style>
+        .select2-selection{
+            border-collapse: separate!important;
+            border-top-right-radius: 0.25rem!important;
+            border-bottom-right-radius: 0.25rem!important;
+            border-top-left-radius: 0rem!important;
+            border-bottom-left-radius: 0rem!important;
+        }
+        .border-left{
+            border-right-color: transparent;
+            border-top-right-radius: 0rem!important;
+            border-bottom-right-radius: 0rem!important;
+            border-top-left-radius: 0.25rem!important;
+            border-bottom-left-radius: 0.25rem!important;
+        }
+    </style>
     <title>SJSU Enrollment Tracker</title>
 </head>
 
@@ -37,19 +52,19 @@
                 <a class="navbar-brand d-flex m-2" href="#">SJSU Enrollment Tracker</a>
 
                 <div class="input-group-sm d-flex flex-fill flex-nowrap m-2">
-                    <span class="input-group-text">Course Code:</span>
+                    <span class="input-group-text border-left" style="">Course Code:</span>
                     <select id="courseCodes" class="form-select" data-placeholder="Course"></select>
                 </div>
                 <div class="input-group-sm d-flex flex-fill flex-nowrap m-2">
-                    <span class="input-group-text">Semester:</span>
+                    <span class="input-group-text border-left">Semester:</span>
                     <select id="semester" class="form-select" data-placeholder="Semester"></select>
                 </div>
 
-                <button class="btn btn-primary d-flex m-2" type="button" data-bs-toggle="collapse"
+                <button class="btn btn-primary m-2 rounded" type="button" data-bs-toggle="collapse"
                     href="#AdditionalOptions" aria-expanded="false"
                     aria-controls="AdditionalOptions">Options</button>
 
-                <button onclick="onButtonPress()" class="btn btn-primary d-flex m-2">Go</button>
+                <button onclick="onButtonPress()" class="btn btn-primary d-flex m-2 rounded" style="align-items: center;">Go</button>
             </div>
         </div>
     </nav>
