@@ -34,21 +34,22 @@
     <nav class="navbar navbar-light bg-light">
         <div class="container-fluid">
             <div class="container input-group input-group-sm m-2">
-                <div class="d-flex flex-wrap">
-                    <a class="navbar-brand" href="#">SJSU Enrollment Tracker</a>
-                    <div class="d-flex">
-                        <span class="input-group-text">Course Code:</span>
-                        <select id="courseCodes" class="form-select" data-placeholder="Course"></select>
-                    </div>
-                    <div class="d-flex">
-                        <span class="input-group-text">Semester:</span>
-                        <select id="semester" class="form-select" data-placeholder="Semester"></select>
-                    </div>
-                    <button class="btn btn-primary mx-2" type="button" data-bs-toggle="collapse"
-                        href="#AdditionalOptions" aria-expanded="false"
-                        aria-controls="AdditionalOptions">Options</button>
-                    <button onclick="onButtonPress()" class="btn btn-primary">Go</button>
+                <a class="navbar-brand d-flex m-2" href="#">SJSU Enrollment Tracker</a>
+
+                <div class="input-group-sm d-flex flex-fill flex-nowrap m-2">
+                    <span class="input-group-text">Course Code:</span>
+                    <select id="courseCodes" class="form-select" data-placeholder="Course"></select>
                 </div>
+                <div class="input-group-sm d-flex flex-fill flex-nowrap m-2">
+                    <span class="input-group-text">Semester:</span>
+                    <select id="semester" class="form-select" data-placeholder="Semester"></select>
+                </div>
+
+                <button class="btn btn-primary d-flex m-2" type="button" data-bs-toggle="collapse"
+                    href="#AdditionalOptions" aria-expanded="false"
+                    aria-controls="AdditionalOptions">Options</button>
+
+                <button onclick="onButtonPress()" class="btn btn-primary d-flex m-2">Go</button>
             </div>
         </div>
     </nav>
@@ -98,67 +99,59 @@
                 </div>
                 <div class="col-sm" id="TypeCheckBox">
                     <h5>Types</h5>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm">
-
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="ACT" id="TypeCheckBox 1"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Activity </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="CLN" id="TypeCheckBox 2"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Clinical</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="DIS" id="TypeCheckBox 3"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Discussion</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="FLD" id="TypeCheckBox 4"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Field Studies </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="LAB" id="TypeCheckBox 5"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Laboratory</label>
-                                </div>
+                    <div class="row">
+                        <div class="col-sm">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="ACT" id="TypeCheckBox 1"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Activity </label>
                             </div>
-                            <div class="col-sm">
-                                <div class="container">
-                                    <div class="row">
-                                    </div>
-                                </div>
-
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="LEC" id="TypeCheckBox 6"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Lecture </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="PRA" id="TypeCheckBox 7"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Practicum</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="RSC" id="TypeCheckBox 8"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Research</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="SEM" id="TypeCheckBox 9"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Seminar </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="SUP" id="TypeCheckBox 10"
-                                        checked>
-                                    <label class="form-check-label" for="flexCheckChecked">Supervision</label>
-                                </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="CLN" id="TypeCheckBox 2"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Clinical</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="DIS" id="TypeCheckBox 3"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Discussion</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="FLD" id="TypeCheckBox 4"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Field Studies </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="LAB" id="TypeCheckBox 5"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Laboratory</label>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="LEC" id="TypeCheckBox 6"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Lecture </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="PRA" id="TypeCheckBox 7"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Practicum</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="RSC" id="TypeCheckBox 8"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Research</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="SEM" id="TypeCheckBox 9"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Seminar </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="SUP" id="TypeCheckBox 10"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">Supervision</label>
                             </div>
                         </div>
                     </div>
