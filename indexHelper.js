@@ -67,15 +67,15 @@ function toggleDatasetVisibility(index) {
 async function fetchSeatData(semester, code) {
     semester = encodeURI(semester);
     code = encodeURI(code);
-    return await fetch(`http://52.89.145.17/data?code=${code}&semester=${semester}`).then((response) => response.json());
+    return await fetch(`/data?code=${code}&semester=${semester}`).then((response) => response.json());
 }
 
 async function fetchCourseCodes() {
-    return await fetch(`http://52.89.145.17/coursecodes`).then((response) => response.json());
+    return await fetch(`/coursecodes`).then((response) => response.json());
 }
 
 async function fetchSemesters() {
-    return await fetch(`http://52.89.145.17/semesters`).then((response) => response.json());
+    return await fetch(`/semesters`).then((response) => response.json());
 }
 
 function setCourseCodeSelect(options) {
