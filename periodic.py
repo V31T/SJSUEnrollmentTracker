@@ -1,13 +1,14 @@
 import logging
 from typing import List
 from helper_classes import Semester, Course
-from scrapers import ScraperWinter2023, ScraperSpring2023, ScraperSummer2023
+from scrapers import ScraperWinter2023, ScraperSpring2023, ScraperSummer2023, ScraperFall2023
 from database import processCourse, getSingleThreadedCursor, initDB
 
 semesters = [
   Semester(scraper=ScraperWinter2023(), startRecording="10/12/2022", endRecording="1/5/2023"),
   Semester(scraper=ScraperSpring2023(), startRecording="10/24/2022", endRecording="2/20/2023"),
   Semester(scraper=ScraperSummer2023(), startRecording="4/10/2023", endRecording="6/13/2023"),
+  Semester(scraper=ScraperFall2023(), startRecording="4/11/2023", endRecording="9/15/2023"),
 ]
 
 logging.basicConfig(filename='periodic.log', level=logging.DEBUG, format='%(asctime)s %(levelname)s : %(message)s')

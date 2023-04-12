@@ -102,3 +102,26 @@ class ScraperSummer2023(AbstractScraper):
     seats = td[12]
     return Course(semesterName=self.uniqueName, uuid=uuid, code=code, section=section, courseNumber=courseNumber, modality=modality, title=title, ge=ge, units=units, type=type, days=days, times=times, instructor=instructor, location=location, dates=dates, seats=seats)
 
+class ScraperFall2023(AbstractScraper):
+  uniqueName = "Fall 2023"
+  url = "https://www.sjsu.edu/classes/schedules/fall-2023.php"
+  uniquePrefix = 4
+
+  def parseTD(self, td: List[str]) -> Course:
+    uuid = int(str(self.uniquePrefix) + td[1])
+    code, section = td[0].replace(" (Section", "").replace(")", "").rsplit(" ", 1)
+    section = int(section)
+    courseNumber = int(td[1])
+    modality = td[2]
+    title = td[3]
+    ge = td[4]
+    units = float(td[5])
+    type = td[6]
+    days = td[7]
+    times = td[8]
+    instructor = td[9]
+    location = td[10]
+    dates = td[11]
+    seats = td[12]
+    return Course(semesterName=self.uniqueName, uuid=uuid, code=code, section=section, courseNumber=courseNumber, modality=modality, title=title, ge=ge, units=units, type=type, days=days, times=times, instructor=instructor, location=location, dates=dates, seats=seats)
+
