@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from helper_classes import Course
 
+
 class AbstractScraper:
   uniqueName = ""
   url: str = ""
@@ -15,7 +16,10 @@ class AbstractScraper:
       l = [td.text.strip() for td in row.find_all("td")]
 
       if len(l) == 14:
-        courses.append(self.parseTD(l))
+        try:
+          courses.append(self.parseTD(l))
+        except:
+          print("Could not process course: ", l)
 
     return courses
 
@@ -55,6 +59,7 @@ class ScraperWinter2023(AbstractScraper):
     seats = td[12]
     return Course(semesterName=self.uniqueName, uuid=uuid, code=code, section=section, courseNumber=courseNumber, modality=modality, title=title, ge=ge, units=units, type=type, days=days, times=times, instructor=instructor, location=location, dates=dates, seats=seats)
 
+
 class ScraperSpring2023(AbstractScraper):
   uniqueName = "Spring 2023"
   url = "https://www.sjsu.edu/classes/schedules/spring-2023.php"
@@ -79,6 +84,7 @@ class ScraperSpring2023(AbstractScraper):
     seats = td[12]
     return Course(semesterName=self.uniqueName, uuid=uuid, code=code, section=section, courseNumber=courseNumber, modality=modality, title=title, ge=ge, units=units, type=type, days=days, times=times, instructor=instructor, location=location, dates=dates, seats=seats)
 
+
 class ScraperSummer2023(AbstractScraper):
   uniqueName = "Summer 2023"
   url = "https://www.sjsu.edu/classes/schedules/summer-2023.php"
@@ -102,6 +108,7 @@ class ScraperSummer2023(AbstractScraper):
     seats = td[12]
     return Course(semesterName=self.uniqueName, uuid=uuid, code=code, section=section, courseNumber=courseNumber, modality=modality, title=title, ge=ge, units=units, type=type, days=days, times=times, instructor=instructor, location=location, dates=dates, seats=seats)
 
+
 class ScraperFall2023(AbstractScraper):
   uniqueName = "Fall 2023"
   url = "https://www.sjsu.edu/classes/schedules/fall-2023.php"
@@ -124,4 +131,3 @@ class ScraperFall2023(AbstractScraper):
     dates = td[11]
     seats = td[12]
     return Course(semesterName=self.uniqueName, uuid=uuid, code=code, section=section, courseNumber=courseNumber, modality=modality, title=title, ge=ge, units=units, type=type, days=days, times=times, instructor=instructor, location=location, dates=dates, seats=seats)
-
